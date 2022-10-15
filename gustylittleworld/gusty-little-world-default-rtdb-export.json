@@ -2057,6 +2057,15 @@
       "summary": "好險不是幫我家打。",
       "time": "2022-09-28",
       "title": "第一次打119"
+    },
+    {
+      "content": "<p><span style=\"font-size:20px\">最近吵得沸沸揚揚的所以我也來玩看看，最下面那些我試出來的，<s>XP表露無遺</s>。</span></p>\n\n<p><span style=\"font-size:20px\">如果直接google應該會找到<a href=\"https://novelai.net/\" target=\"_blank\">NovelAI</a>，但這個要錢，而我身為一個客家人是不會隨便付錢的，後來再仔細找找發現這個的順練模型是有公開在github，既然都有公開了那我想一定還有其他方法可以玩，總之最後我就找到用google colab的方法，玩得不亦樂乎。</span></p>\n\n<p><span style=\"font-size:20px\">我目前只有玩他的text2img功能而已，除此之外他還可以把真實照片或自己畫得圖拿去改，不過我沒試過所以這邊就只說text2img心得，真的很厲害，從下面的圖來看如果不講這些是AI畫的，我都覺得我自己是一個PRO畫師了，我以前也玩過一個類似的東西，不過那個生出來的圖片都很差，而且眼鏡都會跟眼睛糊在一起，現在這個雖然目前還是有一些小問題，但以一般娛樂用途來說，絕對夠用。素晴らしい</span></p>\n\n<p><span style=\"font-size:20px\">這東西問世以後吵得最大的就是畫師會不會被取代，我的答案是有可能，但可能還要很久，下面一般人的圖看起來都很正常，可是如果給他拿個武士刀、槍...一些比較不常見的東西，他生出來的圖就會變得很怪，手部動作的問題也是很多，很多時候手指都會不見或是有6跟手指頭，像是比愛心這這種複雜的動作就別想了；總之就以現階來說段被取代這問題是完全不用擔心的，而且我覺得這東西對畫師也不一定只有壞處，畫師可以先給它一張草圖，然後AI先處理一下，最後再由畫師做些修正，這樣不僅加速畫師畫圖的速度，也可以保住飯碗，豈不美哉。</span></p>\n\n<p><span style=\"font-size:20px\">AI原理我大概都懂，以前大學有同學專題做類似的，但真的要做成這樣也很不容易，網路上的留言說「以前覺得藝術是最不可能被AI取代的，現在反而是AI最快取代的會是藝術。」</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:20px\"><s><img src=\"https://i.imgur.com/Ea2Ro7b.png\" style=\"width:20%\" /><img src=\"https://i.imgur.com/wi9tG1e.png\" style=\"width:20%\" /><img src=\"https://i.imgur.com/rhhOjnm.png\" style=\"width:20%\" /><img src=\"https://i.imgur.com/aDN8WSg.png\" style=\"width:20%\" /><img src=\"https://i.imgur.com/PYRxfe7.png\" style=\"width:20%\" /></s></span></p>",
+      "coverImg": "https://i.imgur.com/rimf6gM.jpg",
+      "label": "垃圾話",
+      "order": 32,
+      "summary": "我也來玩看看。",
+      "time": "2022-10-15",
+      "title": "AI繪圖"
     }
   ],
   "war": {
