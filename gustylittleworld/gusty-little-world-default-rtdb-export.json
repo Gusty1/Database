@@ -2294,7 +2294,7 @@
     },
     {
       "collect": "12",
-      "content": "<p><span style=\"color:#e74c3c\"><span style=\"font-size:22px\"><strong>劇情介紹:</strong></span></span><span style=\"font-size:20px\"><a href=\"https://gusty1.github.io/GustyLittleWorld/ACG/detail.html?order=5&amp;before=yes\">承上季</a></span></p>\n\n<p><span style=\"font-size:20px\">在上一季我說了很多關於這個題材的垃圾話，其中我最有意見的就是真相的部分，我認為真相沒必要讓觀眾知道，這樣觀眾甚麼都不確定、不知道的情況下，會感覺主角的推理都是對的，感覺會多了一分神秘感，但這次看完第2季後，我對本作完全沒有何意見了。因為這些事件都牽扯到一些怪異、妖魔之類的，所以就算知道真相也不能跟其他人說明，反而要想辦法掰一另一個真相去掩飾前面真正的真相，而且這假真相還幾乎不能有甚麼破綻，這比一般殺人案推理兇手還要更困難，不得不佩服可以本作的作者。</span></p>\n\n<p><span style=\"font-size:20px\">就如前面所說，本作所有的真相都是假真相，但有些假真相是連我們知道真真相的觀眾聽完都會懷疑自己，主角在說明假真相時會用很多反問手法，幾乎把所有想到的可能性都自問自答解決了，聽完後會覺得該不會這才是真正的真相之類的，總之作者在說明假真相的手法真的很厲害。</span></p>\n\n<p><span style=\"font-size:20px\">最後一篇主角引導其他人說出他想要的答案，而正當一切都好像就是那樣時，突然主角一個反轉，原來前面引導別人說的那個真相，也是自己的一步棋，想測試真正的兇手會有什麼反應，那時真的不要說裡面的角色了，連我這個觀眾都嚇到了，真的是突如其來的反轉，神之一筆阿。</span></p>",
+      "content": "<p><span style=\"color:#e74c3c\"><span style=\"font-size:22px\"><strong>劇情介紹:</strong></span></span><span style=\"font-size:20px\"><a href=\"https://gusty1.github.io/GustyLittleWorld/ACG/detail.html?order=5&amp;before=yes\">承上季</a></span></p>\n\n<p><span style=\"font-size:20px\">在上一季我說了很多關於這個題材的垃圾話，其中我最有意見的就是真相的部分，我認為真相沒必要讓觀眾知道，這樣觀眾甚麼都不確定、不知道的情況下，會感覺主角的推理都是對的，感覺會多了一分神秘感，但這次看完第2季後，我對本作完全沒有任何意見了。因為這些事件都牽扯到一些怪異、妖魔之類的，所以就算知道真相也不能跟其他人說明，反而要想辦法掰另一個真相去掩飾前面真正的真相，而且這假真相還幾乎不能有甚麼破綻，這比一般殺人案推理兇手還要更困難，不得不佩服本作的作者。</span></p>\n\n<p><span style=\"font-size:20px\">就如前面所說，本作所有的真相都是假真相，但有些假真相是連我們知道真真相的觀眾聽完都會懷疑自己，主角在說明假真相時會用很多反問手法，幾乎把所有想到的可能性都自問自答解決了，聽完後會覺得該不會這才是真正的真相之類的，總之作者在說明假真相的手法真的很厲害。</span></p>\n\n<p><span style=\"font-size:20px\">最後一篇主角引導其他人說出他想要的答案，而正當一切都好像就是那樣時，突然主角一個反轉，原來前面引導別人說的那個真相，也是自己的一步棋，想測試真正的兇手會有什麼反應，那時真的不要說裡面的角色了，連我這個觀眾都嚇到了，真的是突如其來的反轉，神之一筆阿。</span></p>",
       "coverImg": "https://i.imgur.com/MDuBASn.jpg",
       "order": 191,
       "rate": 4.5,
@@ -2735,6 +2735,24 @@
       "summary": "突然就想到了，不寫白不寫",
       "time": "2023-06-30",
       "title": "寫小說"
+    },
+    {
+      "content": "<p><span style=\"font-size:20px\">如前面摘要所說，我又回去讀書了，但這次就只是在家裡自己看影片而已，沒有去資策會之類的東西了；我覺得啦，資策會這種東西去一次就好了，假設你已經有一點基礎，但資策會裡的學生學習歷程都不太一樣，有些有學過有些沒有，而基於情理總是要照顧一下那些沒學過同學，雖然說教別人自己也可以學到東西，但我自己也是來學習的，感覺就有點被拖累。再說總不可能每次想學一個新東西都要去報名一次資策會吧。就算錢不是問題，時間上也很難OK吧。</span></p>\n\n<p><span style=\"font-size:20px\">言歸正傳，<a href=\"https://gusty1.github.io/GustyLittleWorld/life/detail.html?order=39&amp;before=yes\">離職</a>以後我有2個目標</span></p>\n\n<p><span style=\"font-size:20px\">1.把資策會的東西重學一遍，在加個react，最後做一個小<a href=\"https://gusty1.github.io/Pet_you\" target=\"_blank\">DEMO</a></span></p>\n\n<p><span style=\"font-size:20px\">2.考多益，希望至少500以上。</span></p>\n\n<p><span style=\"font-size:20px\">第2點在下個月底就要去考了，而本篇垃圾話主要是1完成了，重學了springMVC、新學了mybatis、react，然後東西也做完了，看學習影片大該花了我將近2個月，而做出那個小東西，大該用了5個工作天，每天都作到凌晨4、5點。做完以後回去檢視，發現功能很少也沒很難，還花那麼多天，我是大便， 嗚嗚嗚。為甚麼要做這個寵物主題，因為資策會畢業專題就是用這個，而當時畢業專題的檔案我覺得不夠好，以後會作更好的就沒留下來了，以下記錄幾個浪費我最多時間的問題</span></p>\n\n<ol>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#8e44ad\"><strong>cros問題:</strong></span></span><span style=\"font-size:20px\"> 這專案算是分離部屬專案吧，就前後端在不同位置，但我沒想到都是localhost也會有cros問題，後端spring沒有用xml，然後設定怎麼弄都弄不好。</span></li>\n\t<li><strong><span style=\"font-size:22px\"><span style=\"color:#8e44ad\">axios的各種方法問題:</span></span></strong><span style=\"font-size:20px\"> 因為影片用restful風格開發，所以我也跟著用，但沒想到用axios不同方法傳參數的方法也不一樣，花了不少時間。</span></li>\n\t<li><strong><span style=\"font-size:22px\"><span style=\"color:#8e44ad\">SQL group by 問題:</span></span></strong><span style=\"font-size:20px\"> mysql的group by會有一些限制，為了永久解除那個限制，試了N多種方法，在快要放棄的時候終於弄好了。</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#8e44ad\"><strong>useState的狀態不能太複雜:</strong></span></span><span style=\"font-size:20px\"> 用react的時候狀態如果不小而且含有虛擬DOM，好像都會更新失敗。</span></li>\n\t<li><span style=\"color:#8e44ad\"><span style=\"font-size:22px\"><strong>其他:</strong></span></span><span style=\"font-size:20px\"> 原本做完試沒打算放在網路上的，可是我要把這個放在履歷裡面，所以要想辦法讓別人看到，萬萬沒想到放在網路上的問題也是真的不少。</span></li>\n</ol>\n\n<p><span style=\"font-size:20px\">題外話，遇到問題查資料，我們大部分都會用中文查，而顯示的結果大部分都是對岸的，也許有時候可以解決問題，但我遇到的資料都偏舊，而且很多都是複製貼上，像是上面我說的group by問題，最後也是去查國外網站才解決，結論以後遇到任何問題都給我用英文查。</span></p>",
+      "coverImg": "https://i.imgur.com/1ZTZSWp.jpg",
+      "label": "垃圾話",
+      "order": 42,
+      "summary": "總之就是之前的工作沒讓我覺得自己有變強，所以我又回去讀書了。",
+      "time": "2023-07-31",
+      "title": "重新進修"
+    },
+    {
+      "content": "<p><span style=\"font-size:20px\">以下皆沒有照片佐證，但我相信大家相信的我。</span></p>\n\n<p><span style=\"font-size:20px\">減肥這件事真的是一輩子的事，就算成功瘦下來了，沒有好好維持也是會胖回去；直到現在我還是會羨慕那種吃不胖的人，有很多大胃王youtuber明明吃的比我多，但都比我瘦，好希望我也能跟們一樣。</span></p>\n\n<p><span style=\"font-size:20px\">我沒有肥胖症或甚麼會變胖的疾病，就是自己吃胖的，小時候的我還是很瘦的，我想會吃胖可能原因是爸爸很常買一些零食給我們吃，加上又沒有甚麼運動，就這樣變胖了。最胖的時候應該是在高中，剛剛回去翻一下高中的照片，那個時候的我真的有點像是小<a href=\"https://www.youtube.com/@stanleyslol\" target=\"_blank\">Stanley</a>。直到畢業減肥都還停留在想的階段。</span></p>\n\n<p><span style=\"font-size:20px\">到了大學離開家裡，終於有了自己的時間，之前說過<a href=\"https://gusty1.github.io/GustyLittleWorld/life/detail.html?order=27&amp;before=yes\">家裡是賣麵的</a>，每天放學後的時間全都是在幫忙，就算有空的時間也是拿來玩電腦，因此閒下來以後會開始想些有的沒的，減肥這個想法也從想變成做了，雖然說要去做，但跨出第一步總是最難的，不過大學期間認識了一個朋友，雖然他在課業上幫不了我甚麼忙，但他喜歡跑步，每天都會去跑，然後因為我很空也跟著去跑；他有教我一些跑步的技巧，但完全沒有打算跟我一起跑，感覺就像下面那張圖一樣。</span></p>\n\n<p style=\"text-align:center\"><span style=\"font-size:20px\"><img src=\"https://i.imgur.com/CXEkGVg.gif\" style=\"width:70%\" /></span></p>\n\n<p><span style=\"font-size:20px\">除了那位朋友的幫忙以外，還有2個催生我減肥最大的動力。</span></p>\n\n<ol>\n\t<li><span style=\"font-size:20px\">我想交女朋友</span></li>\n\t<li><span style=\"font-size:20px\">我的雙胞胎哥哥很瘦</span></li>\n</ol>\n\n<p><span style=\"font-size:20px\">第1點應該不用我多說了，不過我到最後瘦下來還是沒有女朋友，這代表就算你改變了，不去主動創造機會，多參加一些社交活動之類的，那就還是沒有可能。</span></p>\n\n<p><span style=\"font-size:20px\">第2點之前也有說過<a href=\"https://gusty1.github.io/GustyLittleWorld/life/detail.html?order=40&amp;before=yes\">我是雙胞胎</a>，我哥大學去台北讀書，不知是台北的飯特別貴讓他都不吃飯，還是台北的飯有加某種減肥藥，總之就是他去台北以後變得很瘦，每次寒暑假回家都要被一頓嘴、比較，超級不爽。</span></p>\n\n<p><span style=\"font-size:20px\">除了跑步以外我還推薦一個好東西，就是桂格大燕麥片，其他的燕麥片可能也有用，但我只吃過桂格的；他標榜可以降膽固醇、體脂肪，一開始我吃的感覺沒甚麼用，直到某次我跟一個很瘦的同學去測體脂肪，發現我明明比他胖，體脂肪卻比他少，這證明了那個燕麥片是真的有用，但他真的沒有很好吃，通常我都會加阿華田一起吃。</span></p>\n\n<p><span style=\"font-size:20px\">大學畢業後我迎來了一個體重的最佳狀態，但出去工作以後，運動真的是一件很奢侈的事，又慢慢變回高中狀態了；離職後又開始發憤圖強了，現在大概是介於我最瘦和最胖之間，減肥真的好痛苦嗚嗚嗚嗚。</span></p>\n\n<p><span style=\"font-size:20px\">我跑步都去公園操場跑，最近跑的時候有個陌生人跟我說，「你有變瘦ㄟ」，這種來自陌生人的稱讚真的是非常溫暖，自己的努力也有被別人看到且認同，真的沒有甚麼會比這個還要更讓人高興的，頓時感覺減肥也沒有那麼痛苦了。</span></p>",
+      "coverImg": "https://i.imgur.com/fnEjQ4g.png",
+      "label": "垃圾話",
+      "order": 43,
+      "summary": "革命尚未成功，同志仍須努力。",
+      "time": "2023-08-30",
+      "title": "減肥"
     }
   ],
   "war": {
