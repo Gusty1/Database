@@ -1,0 +1,54 @@
+name: CoolPC Parser 自動執行與提交
+
+on:
+  schedule:
+    - cron: '0 */1 * * *' # 每1小時執行一次 (UTC 時間)
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  run_parser_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 檢查程式碼
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # 需要完整的歷史記錄才能檢查檔案變動
+
+    - name: 設定 Python 環境
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # 使用最新的 Python 3 版本
+
+    - name: 安裝必要的 Python 模組
+      run: |
+        python -m pip install --upgrade pip
+        # pip install -r requirements.txt # 如果您的 coolpc_parser.py 檔案需要額外模組，請解除註解此行
+
+    - name: 執行 CoolPC Parser (輸出檔案到根目錄)
+      run: python3 coolPC/coolpc_parser.py --download --json product.json
+      # 注意：這個指令會將 evaluate.html 和 product.json 產生在專案根目錄
+
+    - name: 移動生成檔案到 coolPC 資料夾
+      run: |
+        mkdir -p coolPC # 確保 coolPC 資料夾存在
+        mv evaluate.html coolPC/
+        mv product.json coolPC/
+        echo "檔案已移動到 coolPC/ 資料夾。"
+
+    - name: 檢查並提交變更
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+        # 添加 coolPC 資料夾內的所有相關檔案
+        git add coolPC/evaluate.html coolPC/product.json
+
+        # 檢查是否有任何檔案變更 (現在檢查 coolPC/ 內的檔案)
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "Auto: 更新 coolPC/evaluate.html 和 coolPC/product.json"
+          git push
+        else
+          echo "沒有新的變更需要推送到遠端。"
+        fi
+      if: success()
