@@ -27,12 +27,12 @@ jobs:
 
     - name: 執行 CoolPC Parser (輸出檔案到根目錄)
       run: python3 coolPC/coolpc_parser.py --download --json product.json
-      # 注意：這個指令會將 evaluate.html 和 product.json 產生在專案根目錄
+      # 注意：這個指令會將 product.json 產生在專案根目錄。
+      # 如果 coolpc_parser.py 仍然會產生 evaluate.html 且您不希望它存在於倉庫中，請確保它被 .gitignore 忽略。
 
     - name: 移動生成檔案到 coolPC 資料夾
       run: |
         mkdir -p coolPC # 確保 coolPC 資料夾存在
-        mv evaluate.html coolPC/
         mv product.json coolPC/
         echo "檔案已移動到 coolPC/ 資料夾。"
 
@@ -42,11 +42,11 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
         # 添加 coolPC 資料夾內的所有相關檔案
-        git add coolPC/evaluate.html coolPC/product.json
+        git add coolPC/product.json
 
         # 檢查是否有任何檔案變更 (現在檢查 coolPC/ 內的檔案)
         if ! git diff-index --quiet HEAD; then
-          git commit -m "Auto: 更新 coolPC/evaluate.html 和 coolPC/product.json"
+          git commit -m "Auto: 更新 coolPC/product.json"
           git push
         else
           echo "沒有新的變更需要推送到遠端。"
