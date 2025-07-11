@@ -1,4 +1,4 @@
-name: CoolPC Parser 自動執行與提交
+name: CoolPC Parser 自動執行並提交至 getProduct
 
 on:
   schedule:
@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 檢查程式碼
+    - name: 檢查程式碼並切換到 getProduct 分支
       uses: actions/checkout@v4
       with:
+        ref: getProduct # 指定要檢查的分支
         fetch-depth: 0 # 需要完整的歷史記錄才能檢查檔案變動
 
     - name: 設定 Python 環境
@@ -25,10 +26,9 @@ jobs:
         python -m pip install --upgrade pip
         # pip install -r requirements.txt # 如果您的 coolpc_parser.py 檔案需要額外模組，請解除註解此行
 
-    - name: 執行 CoolPC Parser (輸出檔案到根目錄)
+    - name: 執行 CoolPC Parser
       run: python3 coolPC/coolpc_parser.py --download --json product.json
       # 注意：這個指令會將 product.json 產生在專案根目錄。
-      # 如果 coolpc_parser.py 仍然會產生 evaluate.html 且您不希望它存在於倉庫中，請確保它被 .gitignore 忽略。
 
     - name: 移動生成檔案到 coolPC 資料夾
       run: |
@@ -36,19 +36,19 @@ jobs:
         mv product.json coolPC/
         echo "檔案已移動到 coolPC/ 資料夾。"
 
-    - name: 檢查並提交變更
+    - name: 檢查並提交 product.json 變更至 getProduct 分支
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-        # 添加 coolPC 資料夾內的所有相關檔案
+        # 添加 coolPC 資料夾內的 product.json
         git add coolPC/product.json
 
-        # 檢查是否有任何檔案變更 (現在檢查 coolPC/ 內的檔案)
+        # 檢查 product.json 是否有任何檔案變更
         if ! git diff-index --quiet HEAD; then
-          git commit -m "Auto: 更新 coolPC/product.json"
-          git push
+          git commit -m "Auto: 更新 coolPC/product.json [getProduct branch]" # 更新提交訊息
+          git push origin HEAD:getProduct # 推送到 getProduct 分支
         else
-          echo "沒有新的變更需要推送到遠端。"
+          echo "沒有新的變更需要推送到遠端 getProduct 分支。"
         fi
       if: success()
