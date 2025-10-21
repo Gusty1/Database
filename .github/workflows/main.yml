@@ -23,28 +23,32 @@ jobs:
     - name: 安裝必要的 Python 模組
       run: |
         python -m pip install --upgrade pip
-        # pip install -r requirements.txt # 如果您的 coolpc_parser.py 檔案需要額外模組，請解除註解此行
+        # 根據您的 python 腳本，安裝 requests 和 beautifulsoup4
+        pip install requests beautifulsoup4
 
-    - name: 執行 CoolPC Parser (輸出檔案到根目錄)
-      run: python3 coolPC/coolpc_parser.py --download --json product.json
-      # 注意：這個指令會將 product.json 產生在專案根目錄。
-      # 如果 coolpc_parser.py 仍然會產生 evaluate.html 且您不希望它存在於倉庫中，請確保它被 .gitignore 忽略。
+    - name: 執行 CoolPC Parser 並直接輸出到目標資料夾
+      # 直接將 product.json 輸出到 coolPC/ 資料夾內
+      run: python3 coolPC/coolpc_parser.py --download --json coolPC/product.json
 
-    - name: 移動生成檔案到 coolPC 資料夾
+    - name: 清理暫存檔案
+      # 您的腳本會產生一個 evaluate.html 暫存檔，執行完畢後將其刪除
       run: |
-        mkdir -p coolPC # 確保 coolPC 資料夾存在
-        mv product.json coolPC/
-        echo "檔案已移動到 coolPC/ 資料夾。"
+        if [ -f evaluate.html ]; then
+          rm evaluate.html
+          echo "已刪除暫存的 evaluate.html"
+        else
+          echo "找不到 evaluate.html，無需清理。"
+        fi
 
     - name: 檢查並提交變更
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-        # 添加 coolPC 資料夾內的所有相關檔案
+        # 添加 coolPC 資料夾內的 product.json
         git add coolPC/product.json
 
-        # 檢查是否有任何檔案變更 (現在檢查 coolPC/ 內的檔案)
+        # 檢查是否有任何檔案變更
         if ! git diff-index --quiet HEAD; then
           git commit -m "Auto: 更新 coolPC/product.json"
           git push
