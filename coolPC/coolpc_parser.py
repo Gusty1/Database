@@ -302,7 +302,7 @@ class WorkingCoolPCParser:
         imgUrl = None
         details = None
         for i, product in enumerate(data_list, start=1):
-            if (product['title'] == raw_text):
+            if (product.get('title') == raw_text or product.get('title') in raw_text):
                 productUrl = product.get('link')
                 imgUrl = product.get('image')
                 details = product.get("details")
@@ -315,8 +315,9 @@ class WorkingCoolPCParser:
             'discount_amount': discount.get('discount_amount') if discount else None,
             'markers': markers,
             'raw_text': raw_text,
-            'imgUrl': imgUrl,
-            'productUrl': productUrl,
+            'full_text': text,
+            'img_url': imgUrl,
+            'product_url': productUrl,
             'details': details
         }
 
@@ -542,6 +543,7 @@ def main():
 
     if not args.json and not args.csv and not args.summary:
         print("請指定輸出格式 (--json 或 --csv) 或使用 --summary 查看摘要")
+
 
 if __name__ == "__main__":
     main()
