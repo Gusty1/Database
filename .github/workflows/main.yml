@@ -2,7 +2,7 @@ name: CoolPC Parser 自動執行與提交
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # 每1小時執行一次 (UTC 時間)
+    - cron: '0 */4 * * *' # 每4小時執行一次 (UTC 時間)
   workflow_dispatch: # 允許手動觸發
 
 jobs:
