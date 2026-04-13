@@ -55,6 +55,10 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
 }
 
+# 全量模式的資料起始月份（不處理此月份之前的資料）
+# 格式與檔名一致：YYYY.MM，比較時直接用字串排序（字典序與時間序相同）
+START_MONTH = "2018.01"
+
 # 每次 MAL 請求之間的隨機延遲範圍（秒）
 DELAY_MIN = 3.0
 DELAY_MAX = 6.0
@@ -72,18 +76,24 @@ def random_delay() -> None:
 def get_available_json_files() -> list[str]:
     """
     從 GitHub API 取得 ACGNTaiwan/Anime-List 的 anime-data 目錄，
-    回傳所有 anime{YYYY.MM}.json 的檔案名稱清單。
+    回傳 START_MONTH 以後（含）的所有 anime{YYYY.MM}.json 檔案名稱清單。
+
+    篩選邏輯：從檔名中取出 YYYY.MM 部分，與 START_MONTH 做字串比較。
+    因為格式固定為 YYYY.MM，字典序與時間序完全一致，直接比較即可。
     """
-    print("[Step 1] 取得可用的 JSON 檔案清單...")
+    print(f"[Step 1] 取得可用的 JSON 檔案清單（{START_MONTH} 以後）...")
     try:
         response = requests.get(ANIME_LIST_INDEX_URL, timeout=30)
         response.raise_for_status()
         files = response.json()
-        # 只篩選 anime{YYYY.MM}.json 格式的檔案
-        json_files = [
-            f["name"] for f in files
-            if re.match(r"^anime\d{4}\.\d{2}\.json$", f["name"])
-        ]
+
+        json_files = []
+        for f in files:
+            name = f["name"]
+            m = re.match(r"^anime(\d{4}\.\d{2})\.json$", name)
+            if m and m.group(1) >= START_MONTH:
+                json_files.append(name)
+
         json_files.sort()
         print(f"  找到 {len(json_files)} 個 JSON 檔案：{json_files}")
         return json_files
