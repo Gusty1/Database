@@ -53,8 +53,11 @@ jobs:
       - name: 檢查是否有新增或修改的輸出檔案
         id: check_changes
         run: |
-          git diff --quiet anime_list/output/ || echo "has_changes=true" >> $GITHUB_OUTPUT
           git status --short anime_list/output/
+          # git diff 只偵測已追蹤檔案的修改，git status --porcelain 同時包含未追蹤的新檔案
+          if [ -n "$(git status --porcelain anime_list/output/)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit 輸出結果到 repo
         if: steps.check_changes.outputs.has_changes == 'true'
