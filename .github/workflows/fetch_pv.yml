@@ -1,0 +1,66 @@
+name: 自動補全動漫 PV 網址
+
+on:
+  # 每天台灣時間 10:00（UTC 02:00）自動執行
+  schedule:
+    - cron: "0 2 * * *"
+  # 允許手動觸發，可選擇性指定月份
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "指定年月份（格式：YYYY.MM，例如 2026.04）。留空則處理所有月份。"
+        required: false
+        default: ""
+
+jobs:
+  fetch-pv:
+    name: 執行 PV 爬蟲
+    runs-on: ubuntu-latest
+    # 防止第一次全量初始化超過 GitHub Actions 的 6 小時上限
+    # 設為 350 分鐘（約 5.8 小時），留緩衝給 commit 步驟
+    # 被中斷後，下次執行會從未完成的項目繼續
+    timeout-minutes: 350
+    # 需要寫入 repo 的權限（用於 commit 輸出結果）
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout 程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # 快取 pip 依賴，加速後續執行
+          cache: "pip"
+          cache-dependency-path: "anime_list/requirements.txt"
+
+      - name: 安裝 Python 依賴
+        run: pip install -r anime_list/requirements.txt
+
+      - name: 執行 PV 爬蟲腳本
+        run: |
+          MONTH="${{ github.event.inputs.month }}"
+          if [ -n "$MONTH" ]; then
+            echo "指定月份模式：$MONTH"
+            python anime_list/fetch_pv.py --month "$MONTH"
+          else
+            echo "全部月份模式"
+            python anime_list/fetch_pv.py
+          fi
+
+      - name: 檢查是否有新增或修改的輸出檔案
+        id: check_changes
+        run: |
+          git diff --quiet anime_list/output/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+          git status --short anime_list/output/
+
+      - name: Commit 輸出結果到 repo
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add anime_list/output/
+          git commit -m "chore: 自動更新動漫 PV 網址 $(date -u +'%Y-%m-%d')"
+          git push
