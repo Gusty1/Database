@@ -6,3 +6,4 @@
 - gustylittleworld: 備份我的網站的資料
 - cramForInterview: 面試抱佛腳的英文句子
 - coolPC: 原價屋商品資料，從coolpc-mcp-server把別人寫好的爬蟲程式拿過來用
+- anime_list: [anime_list](https://github.com/ACGNTaiwan/Anime-List/ 'anime list')的資料加上YT pv 網址
