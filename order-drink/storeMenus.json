@@ -158,5 +158,10 @@
     "value": "青山",
     "label": "青山",
     "url": "https://raw.githubusercontent.com/Gusty1/Database/refs/heads/main/order-drink/storeMenus/%E9%9D%92%E5%B1%B1.jpg"
+  },
+  {
+    "value": "林三",
+    "label": "林三茶研所",
+    "url": "https://raw.githubusercontent.com/Gusty1/Database/refs/heads/main/order-drink/storeMenus/%E6%9E%97%E4%B8%89.jpg"
   }
 ]
