@@ -135,6 +135,8 @@ def download_image(img_url, save_path):
             timeout=60
         )
         response.raise_for_status()
+        # 清原等網站的圖片超過 Pillow 預設的像素安全上限，明確設定後才能開啟
+        Image.MAX_IMAGE_PIXELS = None
         img = Image.open(io.BytesIO(response.content)).convert('RGB')
         # 寬度超過上限時等比例縮小，避免存入過大的圖檔
         if img.width > MAX_IMAGE_WIDTH:
