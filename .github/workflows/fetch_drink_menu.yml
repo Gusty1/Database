@@ -1,4 +1,4 @@
-name: 自動取得飲料店菜單圖檔
+name: 自動取得飲料店菜單
 
 on:
   workflow_dispatch: # 手動觸發
