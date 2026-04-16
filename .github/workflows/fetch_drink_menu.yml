@@ -1,0 +1,53 @@
+name: Get Drink Menu
+
+on:
+  workflow_dispatch: # 手動觸發
+  schedule:
+    - cron: '0 1 * * 1' # 每週一 UTC 01:00 = 台灣時間週一 09:00
+
+jobs:
+  convert_pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          # L4: 釘定 minor 版本，允許 patch 更新但防止 minor 升級引入非預期行為
+          python-version: '3.13.x'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r order-drink/requirements.txt
+
+      - name: Install poppler-utils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Run script for all stores
+        continue-on-error: true
+        run: |
+          python order-drink/scrapy_store_menu.py 19 comebuy teatop 五桐號 大苑子 珍煮丹 萬波 阿義 麻古 可不可 迷客夏 清原 花好月圓 茶湯會 大茗 上宇林 吳家 青山
+
+      - name: Commit and push updated images
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add order-drink/storeMenus/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update drink menu images for all stores"
+            # M2: 改用 --ff-only，若遠端有非 fast-forward 變更則跳過 pull，
+            # 避免 rebase 在 CI 並行執行時因衝突導致 push 失敗且難以排查。
+            git pull --ff-only || echo "Fast-forward not possible, skipping pull"
+            git push
+          fi
