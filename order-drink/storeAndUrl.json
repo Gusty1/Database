@@ -1,5 +1,9 @@
 [
   {
+    "store": "19",
+    "url": "https://www.19teahouse.com/zh/products/menu"
+  },
+  {
     "store": "comebuy",
     "url": "https://www.comebuy2002.com.tw/products-detail/comebuy_menu/"
   },
@@ -57,7 +61,7 @@
   },
   {
     "store": "上宇林",
-    "url": "https://www.shangyulin.com.tw/about?item=2"
+    "url": "https://www.shangyulin.com.tw/about?item=1"
   },
   {
     "store": "鮮茶道",

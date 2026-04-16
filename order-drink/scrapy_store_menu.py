@@ -77,6 +77,7 @@ def get_image_url(store, soup, store_dict):
     macu_base = get_base_url(store_dict.get('麻古', ''))
 
     strategies = {
+        '19': lambda s: safe_get(s.find('a', class_='_clip_slider__link'), 'href'),
         'comebuy': lambda s: safe_get(safe_find(s.find('div', class_='tabContentItem'), 'img'), 'src'),
         'teatop': lambda s: safe_get(safe_find(s.find('div', class_='textEditor'), 'img'), 'src'),
         '五桐號': lambda s: safe_get(safe_find(s.find('div', class_='desktopArea'), 'img'), 'src'),
@@ -245,5 +246,7 @@ def main():
         print(f'\n--- 處理商家: {store} ---')
         download_images_from_url(store, store_dict)
 
+# 19 和 阿義 在github action是不能執行的，他們的網站好像有很嚴格檔國外IP，只能本地手動執行
+# python scrapy_store_menu.py 19 阿義
 if __name__ == '__main__':
     main()

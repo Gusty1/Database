@@ -33,7 +33,7 @@ jobs:
       - name: Run script for all stores
         continue-on-error: true
         run: |
-          python order-drink/scrapy_store_menu.py comebuy teatop 五桐號 大苑子 珍煮丹 萬波 阿義 麻古 可不可 迷客夏 清原 花好月圓 茶湯會 大茗 上宇林 吳家 青山
+          python order-drink/scrapy_store_menu.py comebuy teatop 五桐號 大苑子 珍煮丹 萬波 麻古 可不可 迷客夏 清原 花好月圓 茶湯會 大茗 上宇林 吳家 青山
 
       - name: Commit and push updated images
         run: |
