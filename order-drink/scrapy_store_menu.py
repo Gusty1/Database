@@ -121,19 +121,27 @@ def _get_presotea_url(soup):
     if src.startswith('.'): src = src[2:]
     return f'http://www.presotea.com.tw/{src}' if src else ''
 
+MAX_IMAGE_WIDTH = 1200
+
 def download_image(img_url, save_path):
-    """下載圖片並統一轉存為 JPEG 格式。回傳 True 表示成功，False 表示失敗。"""
+    """下載圖片並統一轉存為 JPEG 格式。寬度超過 MAX_IMAGE_WIDTH 時自動縮圖。
+    回傳 True 表示成功，False 表示失敗。"""
     try:
-        # 使用 curl_cffi 模擬 Chrome 下載圖片
+        # timeout 加大至 60 秒，應對清原等超大圖檔（~40 MB）
         response = curl_requests.get(
             img_url,
             headers=DEFAULT_HEADERS,
             impersonate="chrome110",
-            timeout=15
+            timeout=60
         )
         response.raise_for_status()
-        # 用 Pillow 開啟並轉換為 RGB JPEG，確保 PNG/WEBP 等格式都能正確轉存
         img = Image.open(io.BytesIO(response.content)).convert('RGB')
+        # 寬度超過上限時等比例縮小，避免存入過大的圖檔
+        if img.width > MAX_IMAGE_WIDTH:
+            ratio = MAX_IMAGE_WIDTH / img.width
+            new_size = (MAX_IMAGE_WIDTH, int(img.height * ratio))
+            img = img.resize(new_size, Image.LANCZOS)
+            print(f'已縮圖至 {new_size[0]}x{new_size[1]}')
         img.save(save_path, 'JPEG', quality=95)
         print(f'已下載：{save_path}')
         return True
