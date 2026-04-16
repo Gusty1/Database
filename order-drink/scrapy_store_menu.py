@@ -1,14 +1,16 @@
+import io
 import os
 import json
 import warnings
 import argparse
 # 方案 A：引入 curl_cffi 取代標準 requests
-from curl_cffi import requests as curl_requests 
+from curl_cffi import requests as curl_requests
 import requests # 保留原標準庫以備不時之需
 import urllib3
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from pdf2image import convert_from_bytes
+from PIL import Image
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
@@ -17,7 +19,27 @@ DEFAULT_HEADERS = {
     "Connection": "keep-alive",
 }
 
+GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/Gusty1/Database/refs/heads/main/order-drink/storeMenus/'
+
 SSL_SKIP_STORES = {'可不可', '迷客夏', '鮮茶道'}
+
+def update_store_menus_json(store):
+    """爬取成功後，將對應店家的 url 更新至 storeMenus.json。"""
+    from urllib.parse import quote
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(base_dir, 'storeMenus.json')
+    with open(json_path, 'r', encoding='utf-8') as f:
+        entries = json.load(f)
+    # 對中文檔名做 URL encode，英數字則保持原樣
+    encoded = quote(f'{store}.jpg', safe='')
+    new_url = f'{GITHUB_RAW_BASE}{encoded}'
+    updated = [
+        {**entry, 'url': new_url} if entry['value'] == store else entry
+        for entry in entries
+    ]
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(updated, f, ensure_ascii=False, indent=2)
+    print(f'已更新 storeMenus.json：{store} -> {new_url}')
 
 def get_output_path(store, ext=''):
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -55,7 +77,6 @@ def get_image_url(store, soup, store_dict):
     macu_base = get_base_url(store_dict.get('麻古', ''))
 
     strategies = {
-        '19': lambda s: safe_get(s.find('a', class_='_clip_slider__link'), 'href'),
         'comebuy': lambda s: safe_get(safe_find(s.find('div', class_='tabContentItem'), 'img'), 'src'),
         'teatop': lambda s: safe_get(safe_find(s.find('div', class_='textEditor'), 'img'), 'src'),
         '五桐號': lambda s: safe_get(safe_find(s.find('div', class_='desktopArea'), 'img'), 'src'),
@@ -100,35 +121,38 @@ def _get_presotea_url(soup):
     if src.startswith('.'): src = src[2:]
     return f'http://www.presotea.com.tw/{src}' if src else ''
 
-def get_file_extension(url):
-    ext = os.path.splitext(url.split("?")[0])[1].lower()
-    return ext if ext in ('.jpg', '.jpeg', '.png', '.webp') else '.jpg'
-
 def download_image(img_url, save_path):
+    """下載圖片並統一轉存為 JPEG 格式。回傳 True 表示成功，False 表示失敗。"""
     try:
         # 使用 curl_cffi 模擬 Chrome 下載圖片
         response = curl_requests.get(
-            img_url, 
-            headers=DEFAULT_HEADERS, 
-            impersonate="chrome110", 
+            img_url,
+            headers=DEFAULT_HEADERS,
+            impersonate="chrome110",
             timeout=15
         )
         response.raise_for_status()
-        with open(save_path, 'wb') as f:
-            f.write(response.content)
+        # 用 Pillow 開啟並轉換為 RGB JPEG，確保 PNG/WEBP 等格式都能正確轉存
+        img = Image.open(io.BytesIO(response.content)).convert('RGB')
+        img.save(save_path, 'JPEG', quality=95)
         print(f'已下載：{save_path}')
+        return True
     except Exception as e:
         print(f'無法下載 {img_url}：{e}')
+        return False
 
 def convert_pdf_to_image(pdf_data, page_number, output_image_path):
+    """將 PDF 指定頁轉成 JPEG。回傳 True 表示成功，False 表示失敗。"""
     images = convert_from_bytes(pdf_data, first_page=page_number, last_page=page_number)
     if images:
         images[0].save(output_image_path, 'JPEG')
         print(f"圖片已儲存至: {output_image_path}")
-    else:
-        print("無法提取該頁面作為圖片")
+        return True
+    print("無法提取該頁面作為圖片")
+    return False
 
 def download_pdf_menu(store, soup, store_dict, verify):
+    """下載並轉換 PDF 菜單。回傳 True 表示成功，False 表示失敗。"""
     if store == '可不可':
         tag = safe_find(soup.find('div', class_='page-menu__download'), 'a')
         url = safe_get(tag, 'href')
@@ -139,22 +163,22 @@ def download_pdf_menu(store, soup, store_dict, verify):
         url = _prefix(milksha_base, safe_get(tag, 'href'))
         page = 1
     else:
-        return
+        return False
 
     if not url:
         print(f'商家 {store} 找不到 PDF 連結')
-        return
+        return False
 
     # 使用 curl_cffi 下載 PDF
     response = curl_requests.get(
-        url, 
-        headers=DEFAULT_HEADERS, 
-        verify=verify, 
-        impersonate="chrome110", 
+        url,
+        headers=DEFAULT_HEADERS,
+        verify=verify,
+        impersonate="chrome110",
         timeout=30
     )
     response.raise_for_status()
-    convert_pdf_to_image(response.content, page, get_output_path(f'{store}.jpg'))
+    return convert_pdf_to_image(response.content, page, get_output_path(f'{store}.jpg'))
 
 def download_images_from_url(store, store_dict):
     store_url = store_dict.get(store)
@@ -185,7 +209,9 @@ def download_images_from_url(store, store_dict):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     if store in ('可不可', '迷客夏'):
-        download_pdf_menu(store, soup, store_dict, verify)
+        success = download_pdf_menu(store, soup, store_dict, verify)
+        if success:
+            update_store_menus_json(store)
         return
 
     img_url = get_image_url(store, soup, store_dict)
@@ -193,8 +219,10 @@ def download_images_from_url(store, store_dict):
         print(f'商家 {store} 沒有找到圖片 URL')
         return
 
-    ext = get_file_extension(img_url)
-    download_image(img_url, get_output_path(store, ext))
+    # 統一輸出為 .jpg，由 download_image 內部用 Pillow 做格式轉換
+    success = download_image(img_url, get_output_path(store, '.jpg'))
+    if success:
+        update_store_menus_json(store)
 
 def main():
     parser = argparse.ArgumentParser(description="下載飲料店菜單圖片")
