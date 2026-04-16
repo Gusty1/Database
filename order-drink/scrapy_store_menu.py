@@ -15,11 +15,10 @@ from bs4 import BeautifulSoup
 from pdf2image import convert_from_bytes
 
 DEFAULT_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/136.0.0.0 Safari/537.36"
-    )
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Connection": "keep-alive",
 }
 
 # 需要關閉 SSL 驗證的店家清單（對方網站憑證有問題）
@@ -105,12 +104,12 @@ def get_image_url(store, soup, store_dict):
         '五桐號': lambda s: safe_get(safe_find(s.find('div', class_='desktopArea'), 'img'), 'src'),
         '大苑子': lambda s: _prefix('https:', safe_get(safe_find(s.find('picture', class_='skip-lazy'), 'img'), 'src')),
         '珍煮丹': lambda s: _prefix(truedan_base, safe_get(s.find('a', class_='fancybox-menu'), 'href')),
-        '萬波': lambda s: _prefix(wanpo_base, safe_get(safe_find_parent(s.find('img', src='images/menu-y-1.svg'), 'a'), 'href')),
+        '萬波': lambda s: safe_get(safe_find_parent(s.find('img', src='images/menu-y-1.svg'), 'a'), 'href'),
         '阿義': lambda s: safe_get(safe_find(s.find('div', class_='ayd01_a02'), 'a'), 'href'),
         '麻古': lambda s: _get_macu_url(s, macu_base),
         '清原': lambda s: safe_get(safe_find_parent(s.find('img', class_='wp-image-2488'), 'a'), 'href'),
         '花好月圓': lambda s: safe_get(safe_find(s.find('div', class_='menuArea'), 'img'), 'src'),
-        '茶湯會': lambda s: safe_get(s.find('a', class_='btn01'), 'href'),
+        '茶湯會': lambda s: _prefix('https://tw.tp-tea.com/',safe_get(safe_find(s.find('div', class_='drinkIntro'), 'img'),'src')),
         '大茗': lambda s: safe_get(safe_find(safe_find(s.find('div', id='intro'), 'p'), 'img'), 'src'),
         '上宇林': lambda s: _get_shangyulin_url(s),
         '鮮茶道': lambda s: _get_presotea_url(s),
