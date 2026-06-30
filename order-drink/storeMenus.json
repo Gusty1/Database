@@ -163,5 +163,10 @@
     "value": "林三",
     "label": "林三茶研所",
     "url": "https://raw.githubusercontent.com/Gusty1/Database/refs/heads/main/order-drink/storeMenus/%E6%9E%97%E4%B8%89.jpg"
+  },
+  {
+    "value": "沫飲",
+    "label": "沫飲",
+    "url": "https://raw.githubusercontent.com/Gusty1/Database/refs/heads/main/order-drink/storeMenus/%E6%B2%AB%E9%A3%B2.jpg"
   }
 ]
