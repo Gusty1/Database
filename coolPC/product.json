@@ -3705,7 +3705,7 @@
   {
     "category_id": "2",
     "category_name": "筆電|平板|穿戴配件",
-    "summary": "共有商品 423 樣，熱賣 63，圖片 423，討論 365，價格異動 60，限時下殺▼41",
+    "summary": "共有商品 423 樣，熱賣 63，圖片 423，討論 364，價格異動 61，限時下殺▼41",
     "subcategories": [
       {
         "name": "PAD 智慧平板",
@@ -4307,14 +4307,15 @@
             "index": "30",
             "group": null,
             "price": 16290,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 16290,
+            "discount_amount": 291,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change"
             ],
             "raw_text": "Acer Aspire Lite /Core 5-120U/8G/512G/14吋/金 AL14-52M-5461",
-            "full_text": "Acer Aspire Lite /Core 5-120U/8G/512G/14吋/金 AL14-52M-5461, $16290 ◆ ★",
+            "full_text": "Acer Aspire Lite /Core 5-120U/8G/512G/14吋/金 AL14-52M-5461, $16290↘$15999 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceraspirrliteg.jpg",
             "product_url": "https://s.shopee.tw/8Uymhfq5tM",
             "details": [
@@ -4462,7 +4463,7 @@
           {
             "index": "36",
             "group": null,
-            "price": 22618,
+            "price": 22900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4470,7 +4471,7 @@
               "image"
             ],
             "raw_text": "Acer Aspire Lite /R7-8840HS/16G/512G/15.6吋/銀 AL15-61P-R5J1",
-            "full_text": "Acer Aspire Lite /R7-8840HS/16G/512G/15.6吋/銀 AL15-61P-R5J1, $22618 ◆ ★",
+            "full_text": "Acer Aspire Lite /R7-8840HS/16G/512G/15.6吋/銀 AL15-61P-R5J1, $22900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceral15s.jpg",
             "product_url": "https://s.shopee.tw/3LC3mMMoiY",
             "details": [
@@ -4536,7 +4537,7 @@
           {
             "index": "39",
             "group": null,
-            "price": 19618,
+            "price": 19900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4544,7 +4545,7 @@
               "image"
             ],
             "raw_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/15.6吋/銀 AL15-54P-576Z",
-            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/15.6吋/銀 AL15-54P-576Z, $19618 ◆ ★",
+            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/15.6吋/銀 AL15-54P-576Z, $19900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceral15s.jpg",
             "product_url": "https://s.shopee.tw/5An2hSkDG4",
             "details": [
@@ -4566,7 +4567,7 @@
           {
             "index": "40",
             "group": null,
-            "price": 20618,
+            "price": 20900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4574,7 +4575,7 @@
               "image"
             ],
             "raw_text": "Acer Aspire Lite /R5-7640HS/16G/512G/16吋/銀 AL16-62P-R1N9",
-            "full_text": "Acer Aspire Lite /R5-7640HS/16G/512G/16吋/銀 AL16-62P-R1N9, $20618 ◆ ★",
+            "full_text": "Acer Aspire Lite /R5-7640HS/16G/512G/16吋/銀 AL16-62P-R1N9, $20900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceral16s.jpg",
             "product_url": "https://s.shopee.tw/1qWpG96MzI",
             "details": [
@@ -4616,7 +4617,7 @@
           {
             "index": "42",
             "group": null,
-            "price": 19618,
+            "price": 19900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4625,7 +4626,7 @@
               "hot"
             ],
             "raw_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/銀 AL16-53P-57B8",
-            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/銀 AL16-53P-57B8, $19618 ◆ ★ 熱賣",
+            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/銀 AL16-53P-57B8, $19900 ◆ ★ 熱賣",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceral16u.jpg",
             "product_url": "https://s.shopee.tw/AA7rok34RW",
             "details": [
@@ -4642,7 +4643,7 @@
           {
             "index": "43",
             "group": null,
-            "price": 19618,
+            "price": 19900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4650,7 +4651,7 @@
               "image"
             ],
             "raw_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/金 AL16-53P-53WA",
-            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/金 AL16-53P-53WA, $19618 ◆ ★",
+            "full_text": "Acer Aspire Lite /Ultra 5-115U/16G/512G/16吋/金 AL16-53P-53WA, $19900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/aceral16gg.jpg",
             "product_url": "https://www.acer.com/tw-zh/laptops/aspire/aspire-lite/pdp/NX.DP9TA.001",
             "details": [
@@ -4911,7 +4912,7 @@
           {
             "index": "53",
             "group": null,
-            "price": 37499,
+            "price": 37688,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -4919,7 +4920,7 @@
               "image"
             ],
             "raw_text": "Acer Nitro V /i5-13420H/RTX5050/16G/512G/15.6吋/黑 ANV15-52-53WY",
-            "full_text": "Acer Nitro V /i5-13420H/RTX5050/16G/512G/15.6吋/黑 ANV15-52-53WY, $37499 ◆ ★",
+            "full_text": "Acer Nitro V /i5-13420H/RTX5050/16G/512G/15.6吋/黑 ANV15-52-53WY, $37688 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acernitrov15.jpg",
             "product_url": "https://s.shopee.tw/6AaVcylqrN",
             "details": [
@@ -4961,14 +4962,14 @@
           {
             "index": "55",
             "group": null,
-            "price": 44900,
+            "price": 39688,
             "original_price": null,
             "discount_amount": null,
             "markers": [
               "image"
             ],
             "raw_text": "Acer Nitro V /Core 5-210H/RTX5060/16G/512G/15.6吋/黑 ANV15-52-52CL",
-            "full_text": "Acer Nitro V /Core 5-210H/RTX5060/16G/512G/15.6吋/黑 ANV15-52-52CL, $44900 ★",
+            "full_text": "Acer Nitro V /Core 5-210H/RTX5060/16G/512G/15.6吋/黑 ANV15-52-52CL, $39688 ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acernitrov15.jpg",
             "product_url": null,
             "details": [
@@ -5303,7 +5304,7 @@
           {
             "index": "69",
             "group": null,
-            "price": 59900,
+            "price": 66900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -5311,7 +5312,7 @@
               "image"
             ],
             "raw_text": "Acer Helios Neo /Ultra 9-275HX/RTX5070/16G/512G/16吋/黑 PHN16-73-92G5",
-            "full_text": "Acer Helios Neo /Ultra 9-275HX/RTX5070/16G/512G/16吋/黑 PHN16-73-92G5, $59900 ◆ ★",
+            "full_text": "Acer Helios Neo /Ultra 9-275HX/RTX5070/16G/512G/16吋/黑 PHN16-73-92G5, $66900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerheliosneo16ai.jpg",
             "product_url": "https://s.shopee.tw/8zuEFhzAlO",
             "details": [
@@ -5588,7 +5589,7 @@
           {
             "index": "83",
             "group": null,
-            "price": 35400,
+            "price": 35900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -5596,7 +5597,7 @@
               "image"
             ],
             "raw_text": "Acer Swift Lite /Ultra 7-155U/32G/512G/14吋/幻境粉 SFL14-54M-73E9 【極致輕999克】",
-            "full_text": "Acer Swift Lite /Ultra 7-155U/32G/512G/14吋/幻境粉 SFL14-54M-73E9 【極致輕999克】, $35400 ◆ ★",
+            "full_text": "Acer Swift Lite /Ultra 7-155U/32G/512G/14吋/幻境粉 SFL14-54M-73E9 【極致輕999克】, $35900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftlitepink.jpg",
             "product_url": "https://s.shopee.tw/5pqzytKF5J",
             "details": [
@@ -5693,7 +5694,7 @@
           {
             "index": "88",
             "group": null,
-            "price": 26900,
+            "price": 27900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -5701,7 +5702,7 @@
               "image"
             ],
             "raw_text": "Acer Swift Lite /Ultra 5-115U/16G/512G/16吋/銀 SFL16-51M-5184",
-            "full_text": "Acer Swift Lite /Ultra 5-115U/16G/512G/16吋/銀 SFL16-51M-5184, $26900 ◆ ★",
+            "full_text": "Acer Swift Lite /Ultra 5-115U/16G/512G/16吋/銀 SFL16-51M-5184, $27900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftlite16s.jpg",
             "product_url": "https://s.shopee.tw/2LH7p1OEyM",
             "details": [
@@ -5848,7 +5849,7 @@
           {
             "index": "94",
             "group": null,
-            "price": 44900,
+            "price": 45900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -5856,7 +5857,7 @@
               "image"
             ],
             "raw_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/14吋/藍 SFG14-75-76T1",
-            "full_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/14吋/藍 SFG14-75-76T1, $44900 ◆ ★",
+            "full_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/14吋/藍 SFG14-75-76T1, $45900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftgoai.jpg",
             "product_url": "https://s.shopee.tw/2B4hc7RQvv",
             "details": [
@@ -5878,7 +5879,7 @@
           {
             "index": "95",
             "group": null,
-            "price": 39900,
+            "price": 42900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -5886,7 +5887,7 @@
               "image"
             ],
             "raw_text": "Acer Swift Go AI /Ultra 5-228V/32G/512G/16吋/黑 SFG16-74-58QT",
-            "full_text": "Acer Swift Go AI /Ultra 5-228V/32G/512G/16吋/黑 SFG16-74-58QT, $39900 ◆ ★",
+            "full_text": "Acer Swift Go AI /Ultra 5-228V/32G/512G/16吋/黑 SFG16-74-58QT, $42900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftgoai16.jpg",
             "product_url": "https://s.shopee.tw/50Oszo4s9T",
             "details": [
@@ -5930,14 +5931,14 @@
             "group": null,
             "price": 46900,
             "original_price": 46900,
-            "discount_amount": 901,
+            "discount_amount": 1000,
             "markers": [
               "discussion",
               "image",
               "price_change"
             ],
             "raw_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/16吋/黑 SFG16-74-79T3",
-            "full_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/16吋/黑 SFG16-74-79T3, $46900↘$45999 ◆ ★",
+            "full_text": "Acer Swift Go AI /Ultra 7-258V/32G/1T/16吋/黑 SFG16-74-79T3, $46900↘$45900 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftgoai16.jpg",
             "product_url": "https://s.shopee.tw/30docodAqP",
             "details": [
@@ -6014,14 +6015,14 @@
           {
             "index": "100",
             "group": null,
-            "price": 31900,
+            "price": 30900,
             "original_price": null,
             "discount_amount": null,
             "markers": [
               "image"
             ],
             "raw_text": "Acer Swift Air /Ultra 5-125H/16G/512G/14吋/銀 SFA14-71M-57TB",
-            "full_text": "Acer Swift Air /Ultra 5-125H/16G/512G/14吋/銀 SFA14-71M-57TB, $31900 ★",
+            "full_text": "Acer Swift Air /Ultra 5-125H/16G/512G/14吋/銀 SFA14-71M-57TB, $30900 ★",
             "img_url": "https://www.coolpc.com.tw/eval/2/coolpcnew.jpg",
             "product_url": null,
             "details": [
@@ -6116,31 +6117,6 @@
           {
             "index": "105",
             "group": null,
-            "price": 35900,
-            "original_price": null,
-            "discount_amount": null,
-            "markers": [
-              "discussion",
-              "image"
-            ],
-            "raw_text": "Acer Swift Air /Ryzen AI 5 340/24G/1T/16吋/銀 SFA16-61M-R1GC 【極致輕999克】",
-            "full_text": "Acer Swift Air /Ryzen AI 5 340/24G/1T/16吋/銀 SFA16-61M-R1GC 【極致輕999克】, $35900 ◆ ★",
-            "img_url": "https://www.coolpc.com.tw/eval/2/acerswiftair.jpg",
-            "product_url": "https://s.shopee.tw/7AWZpeFA1w",
-            "details": [
-              "尺寸：16\" IPS面板 (1920x1200)",
-              "CPU：AMD Ryzen AI 5 340 (6C12T / 2 G↗4.8 G / 16M)",
-              "RAM：內建24G DDR5 不可擴充",
-              "SSD：單槽/1T M.2",
-              "內顯：AMD Radeon 840M Graphics",
-              "介面：U3.2 Gen 1(2C1A) /HDMI",
-              "重量：999g /鋁鎂合金/白色背光鍵盤/附包鼠",
-              "OS：Windows 11 家用版 / 二年台灣保固"
-            ]
-          },
-          {
-            "index": "107",
-            "group": null,
             "price": 36900,
             "original_price": null,
             "discount_amount": null,
@@ -6168,7 +6144,7 @@
         "name": "14吋/16吋 Acer宏碁 Swift Edge 系列 〈頂級超輕量工作生活筆電〉",
         "products": [
           {
-            "index": "109",
+            "index": "107",
             "group": null,
             "price": 58900,
             "original_price": null,
@@ -6193,7 +6169,7 @@
             ]
           },
           {
-            "index": "110",
+            "index": "108",
             "group": null,
             "price": 29900,
             "original_price": null,
@@ -6220,10 +6196,39 @@
         ]
       },
       {
+        "name": "14吋 Acer宏碁 Swift Edge AI 系列",
+        "products": [
+          {
+            "index": "109",
+            "group": null,
+            "price": 49500,
+            "original_price": null,
+            "discount_amount": null,
+            "markers": [
+              "image"
+            ],
+            "raw_text": "Acer Swift Edge /Ultra 9-288V/32G/1T/14吋/極光銀 SFE14-51T-96M5〈觸控〉",
+            "full_text": "Acer Swift Edge /Ultra 9-288V/32G/1T/14吋/極光銀 SFE14-51T-96M5〈觸控〉, $49500 ★",
+            "img_url": "https://www.coolpc.com.tw/eval/2/acersfe14s.jpg",
+            "product_url": null,
+            "details": [
+              "尺寸：14\" OLED面板 (1920x1200)",
+              "CPU：Intel Ultra 9 288V (8C8T / 3.3 G↗5.1 G / 12M)",
+              "RAM：內建32G DDR5 不可擴充",
+              "SSD：單槽/1T M.2",
+              "內顯：Intel ARC Graphics",
+              "介面：TB4(2C)+U3.2 Gen 2(1A)+U3.2 Gen 1(1A) /HDMI",
+              "重量：0.99Kg / 特色：鎂鋁合金極致輕薄/白色背光鍵盤/附包鼠",
+              "OS：Windows 11 家用版 / 二年台灣保固"
+            ]
+          }
+        ]
+      },
+      {
         "name": "14 吋 Lenovo ThinkPad L14 系列〈傳奇小紅點〉",
         "products": [
           {
-            "index": "112",
+            "index": "111",
             "group": "❤ Lenovo 筆電保固期間內享有原廠到府維修/收送。(詳見官網說明)",
             "price": 24900,
             "original_price": null,
@@ -6252,7 +6257,7 @@
         "name": "14吋 Lenovo IdeaPad Slim 3 系列",
         "products": [
           {
-            "index": "114",
+            "index": "113",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 17500,
             "original_price": null,
@@ -6282,7 +6287,7 @@
         "name": "15吋 Lenovo IdeaPad Slim 3 系列",
         "products": [
           {
-            "index": "116",
+            "index": "115",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 16990,
             "original_price": null,
@@ -6308,7 +6313,7 @@
             ]
           },
           {
-            "index": "117",
+            "index": "116",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 14590,
             "original_price": null,
@@ -6334,7 +6339,7 @@
             ]
           },
           {
-            "index": "118",
+            "index": "117",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 19990,
             "original_price": null,
@@ -6359,7 +6364,7 @@
             ]
           },
           {
-            "index": "119",
+            "index": "118",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 18618,
             "original_price": null,
@@ -6389,7 +6394,7 @@
         "name": "13吋/14吋 Lenovo IdeaPad Slim 5 系列",
         "products": [
           {
-            "index": "121",
+            "index": "120",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 26990,
             "original_price": null,
@@ -6414,7 +6419,7 @@
             ]
           },
           {
-            "index": "122",
+            "index": "121",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 24990,
             "original_price": null,
@@ -6439,7 +6444,7 @@
             ]
           },
           {
-            "index": "123",
+            "index": "122",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 24990,
             "original_price": null,
@@ -6469,7 +6474,7 @@
         "name": "16吋 Lenovo IdeaPad Slim 5 系列",
         "products": [
           {
-            "index": "125",
+            "index": "124",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 28990,
             "original_price": null,
@@ -6499,7 +6504,7 @@
         "name": "14吋 Lenovo IdeaPad Pro 5 系列",
         "products": [
           {
-            "index": "127",
+            "index": "126",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 64618,
             "original_price": null,
@@ -6529,7 +6534,7 @@
         "name": "14吋 Lenovo Yoga Slim 7 / Yoga Pro 7 系列",
         "products": [
           {
-            "index": "129",
+            "index": "128",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 68990,
             "original_price": null,
@@ -6554,7 +6559,7 @@
             ]
           },
           {
-            "index": "130",
+            "index": "129",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 42900,
             "original_price": null,
@@ -6579,7 +6584,7 @@
             ]
           },
           {
-            "index": "131",
+            "index": "130",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 80990,
             "original_price": null,
@@ -6604,7 +6609,7 @@
             ]
           },
           {
-            "index": "132",
+            "index": "131",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 68990,
             "original_price": 68990,
@@ -6635,7 +6640,7 @@
         "name": "16吋 Lenovo Yoga 2-in-1 系列〈觸控翻轉〉",
         "products": [
           {
-            "index": "134",
+            "index": "133",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 45990,
             "original_price": 45990,
@@ -6666,7 +6671,7 @@
         "name": "15吋 Lenovo LOQ 系列",
         "products": [
           {
-            "index": "136",
+            "index": "135",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 29990,
             "original_price": null,
@@ -6691,7 +6696,7 @@
             ]
           },
           {
-            "index": "137",
+            "index": "136",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 35990,
             "original_price": null,
@@ -6716,7 +6721,7 @@
             ]
           },
           {
-            "index": "138",
+            "index": "137",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 32990,
             "original_price": null,
@@ -6746,7 +6751,7 @@
         "name": "15吋 Lenovo Legion 5 系列",
         "products": [
           {
-            "index": "140",
+            "index": "139",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 85990,
             "original_price": null,
@@ -6776,7 +6781,7 @@
         "name": "16吋 Lenovo Legion 5 系列",
         "products": [
           {
-            "index": "142",
+            "index": "141",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 36000,
             "original_price": null,
@@ -6801,7 +6806,7 @@
             ]
           },
           {
-            "index": "143",
+            "index": "142",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 45990,
             "original_price": null,
@@ -6832,7 +6837,7 @@
         "name": "華碩 ASUS 筆電館-全館刷卡分期零利率(3)",
         "products": [
           {
-            "index": "144",
+            "index": "143",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1,
             "original_price": null,
@@ -6850,7 +6855,7 @@
             ]
           },
           {
-            "index": "145",
+            "index": "144",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1,
             "original_price": null,
@@ -6868,7 +6873,7 @@
             ]
           },
           {
-            "index": "146",
+            "index": "145",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1680,
             "original_price": null,
@@ -6889,7 +6894,7 @@
             ]
           },
           {
-            "index": "147",
+            "index": "146",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1290,
             "original_price": null,
@@ -6911,7 +6916,7 @@
             ]
           },
           {
-            "index": "148",
+            "index": "147",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 3000,
             "original_price": null,
@@ -6934,7 +6939,7 @@
             ]
           },
           {
-            "index": "149",
+            "index": "148",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 3500,
             "original_price": null,
@@ -6962,7 +6967,7 @@
         "name": "華碩 ROG 二十載淬鍊不凡 / ROG SAGA 特展 / 2026 限量特展",
         "products": [
           {
-            "index": "150",
+            "index": "149",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1299,
             "original_price": null,
@@ -6982,7 +6987,7 @@
             ]
           },
           {
-            "index": "151",
+            "index": "150",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 450,
             "original_price": null,
@@ -7002,7 +7007,7 @@
             ]
           },
           {
-            "index": "152",
+            "index": "151",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1099,
             "original_price": null,
@@ -7022,7 +7027,7 @@
             ]
           },
           {
-            "index": "153",
+            "index": "152",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 1099,
             "original_price": null,
@@ -7042,7 +7047,7 @@
             ]
           },
           {
-            "index": "154",
+            "index": "153",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 308,
             "original_price": null,
@@ -7062,7 +7067,7 @@
             ]
           },
           {
-            "index": "155",
+            "index": "154",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 6490,
             "original_price": null,
@@ -7082,7 +7087,7 @@
             ]
           },
           {
-            "index": "156",
+            "index": "155",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 7790,
             "original_price": null,
@@ -7107,7 +7112,7 @@
         "name": "13 吋 華碩 ProArt 系列〈打造全新 AI 體驗、提升工作效率〉",
         "products": [
           {
-            "index": "157",
+            "index": "156",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 15153,
             "original_price": null,
@@ -7120,7 +7125,7 @@
             "details": null
           },
           {
-            "index": "158",
+            "index": "157",
             "group": "❤ 購買 Lenovo 全系列筆電，現場加送Targus TBB580 / TSB883 後背包",
             "price": 89999,
             "original_price": null,
@@ -7145,7 +7150,7 @@
             ]
           },
           {
-            "index": "160",
+            "index": "159",
             "group": "❤ 華碩 ProArt Ryzen AI 9 HX/RTX4060/32G/1T/13吋 HN7306WV-0023KHX370 79900元 ◆ ★",
             "price": 66900,
             "original_price": null,
@@ -7176,7 +7181,7 @@
         "name": "14 吋 華碩 Zenbook 系列 / 高通Qualcomm系列",
         "products": [
           {
-            "index": "163",
+            "index": "162",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 39900,
             "original_price": 39900,
@@ -7204,7 +7209,7 @@
             ]
           },
           {
-            "index": "164",
+            "index": "163",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 36999,
             "original_price": null,
@@ -7229,7 +7234,7 @@
             ]
           },
           {
-            "index": "165",
+            "index": "164",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 41999,
             "original_price": null,
@@ -7254,7 +7259,7 @@
             ]
           },
           {
-            "index": "166",
+            "index": "165",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 41999,
             "original_price": null,
@@ -7279,7 +7284,7 @@
             ]
           },
           {
-            "index": "167",
+            "index": "166",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 41999,
             "original_price": null,
@@ -7304,7 +7309,7 @@
             ]
           },
           {
-            "index": "168",
+            "index": "167",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 41999,
             "original_price": null,
@@ -7329,7 +7334,7 @@
             ]
           },
           {
-            "index": "169",
+            "index": "168",
             "group": "❤ 華碩 Zenbook Qualcomm/32G/1T/14吋 沙暮金 UX3407QA-0072D26100 超輕盈41900元 ◆ ★",
             "price": 38888,
             "original_price": null,
@@ -7355,7 +7360,7 @@
             ]
           },
           {
-            "index": "171",
+            "index": "170",
             "group": "❤ 華碩 Zenbook Ultra 5-226V/16G/1T/14吋 曜岩灰 UX5406SA-0052I226V 46999元 ◆ ★",
             "price": 39999,
             "original_price": null,
@@ -7381,7 +7386,7 @@
             ]
           },
           {
-            "index": "172",
+            "index": "171",
             "group": "❤ 華碩 Zenbook Ultra 5-226V/16G/1T/14吋 曜岩灰 UX5406SA-0052I226V 46999元 ◆ ★",
             "price": 55999,
             "original_price": null,
@@ -7406,7 +7411,7 @@
             ]
           },
           {
-            "index": "173",
+            "index": "172",
             "group": "❤ 華碩 Zenbook Ultra 5-226V/16G/1T/14吋 曜岩灰 UX5406SA-0052I226V 46999元 ◆ ★",
             "price": 55999,
             "original_price": null,
@@ -7431,7 +7436,7 @@
             ]
           },
           {
-            "index": "174",
+            "index": "173",
             "group": "❤ 華碩 Zenbook Ultra 5-226V/16G/1T/14吋 曜岩灰 UX5406SA-0052I226V 46999元 ◆ ★",
             "price": 69999,
             "original_price": null,
@@ -7462,7 +7467,7 @@
         "name": "16 吋 華碩 Zenbook 系列 / 高通Qualcomm系列",
         "products": [
           {
-            "index": "176",
+            "index": "175",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 43999,
             "original_price": null,
@@ -7487,7 +7492,7 @@
             ]
           },
           {
-            "index": "177",
+            "index": "176",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 43999,
             "original_price": null,
@@ -7512,7 +7517,7 @@
             ]
           },
           {
-            "index": "178",
+            "index": "177",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 79999,
             "original_price": null,
@@ -7537,7 +7542,7 @@
             ]
           },
           {
-            "index": "179",
+            "index": "178",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 58999,
             "original_price": null,
@@ -7567,7 +7572,7 @@
         "name": "14吋 華碩 Vivobook GO / Vivobook / Vivobook 14 Flip 系列",
         "products": [
           {
-            "index": "180",
+            "index": "179",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 12900,
             "original_price": null,
@@ -7592,7 +7597,7 @@
             ]
           },
           {
-            "index": "181",
+            "index": "180",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 17999,
             "original_price": null,
@@ -7618,7 +7623,7 @@
             ]
           },
           {
-            "index": "182",
+            "index": "181",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 17999,
             "original_price": null,
@@ -7644,7 +7649,7 @@
             ]
           },
           {
-            "index": "183",
+            "index": "182",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 20999,
             "original_price": null,
@@ -7669,7 +7674,7 @@
             ]
           },
           {
-            "index": "184",
+            "index": "183",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 20999,
             "original_price": null,
@@ -7694,7 +7699,7 @@
             ]
           },
           {
-            "index": "185",
+            "index": "184",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 26999,
             "original_price": null,
@@ -7720,7 +7725,7 @@
             ]
           },
           {
-            "index": "186",
+            "index": "185",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 26999,
             "original_price": null,
@@ -7745,7 +7750,7 @@
             ]
           },
           {
-            "index": "187",
+            "index": "186",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 29999,
             "original_price": null,
@@ -7771,7 +7776,7 @@
             ]
           },
           {
-            "index": "188",
+            "index": "187",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 28999,
             "original_price": null,
@@ -7796,7 +7801,7 @@
             ]
           },
           {
-            "index": "189",
+            "index": "188",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 32999,
             "original_price": null,
@@ -7821,7 +7826,7 @@
             ]
           },
           {
-            "index": "190",
+            "index": "189",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 27999,
             "original_price": null,
@@ -7847,7 +7852,7 @@
             ]
           },
           {
-            "index": "191",
+            "index": "190",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 25900,
             "original_price": null,
@@ -7873,7 +7878,7 @@
             ]
           },
           {
-            "index": "192",
+            "index": "191",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 37999,
             "original_price": 37999,
@@ -7900,7 +7905,7 @@
             ]
           },
           {
-            "index": "194",
+            "index": "193",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 29999,
             "original_price": null,
@@ -7926,7 +7931,7 @@
             ]
           },
           {
-            "index": "195",
+            "index": "194",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 29999,
             "original_price": null,
@@ -7952,7 +7957,7 @@
             ]
           },
           {
-            "index": "196",
+            "index": "195",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 33999,
             "original_price": null,
@@ -7977,7 +7982,7 @@
             ]
           },
           {
-            "index": "197",
+            "index": "196",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 33999,
             "original_price": null,
@@ -8002,7 +8007,7 @@
             ]
           },
           {
-            "index": "198",
+            "index": "197",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 37999,
             "original_price": null,
@@ -8032,7 +8037,7 @@
         "name": "15 吋 華碩 VivoBook GO / VivoBook 系列",
         "products": [
           {
-            "index": "199",
+            "index": "198",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 20999,
             "original_price": null,
@@ -8058,7 +8063,7 @@
             ]
           },
           {
-            "index": "200",
+            "index": "199",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 20999,
             "original_price": null,
@@ -8084,7 +8089,7 @@
             ]
           },
           {
-            "index": "201",
+            "index": "200",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 23999,
             "original_price": null,
@@ -8111,7 +8116,7 @@
             ]
           },
           {
-            "index": "202",
+            "index": "201",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 17999,
             "original_price": null,
@@ -8136,7 +8141,7 @@
             ]
           },
           {
-            "index": "203",
+            "index": "202",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 18999,
             "original_price": null,
@@ -8162,7 +8167,7 @@
             ]
           },
           {
-            "index": "204",
+            "index": "203",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 18999,
             "original_price": null,
@@ -8188,7 +8193,7 @@
             ]
           },
           {
-            "index": "205",
+            "index": "204",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 25999,
             "original_price": null,
@@ -8213,7 +8218,7 @@
             ]
           },
           {
-            "index": "206",
+            "index": "205",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 25999,
             "original_price": null,
@@ -8238,7 +8243,7 @@
             ]
           },
           {
-            "index": "207",
+            "index": "206",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 31999,
             "original_price": 31999,
@@ -8271,7 +8276,7 @@
         "name": "16 吋 華碩 Vivobook / V16 蒼藍戰魂 系列",
         "products": [
           {
-            "index": "208",
+            "index": "207",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 21999,
             "original_price": null,
@@ -8297,7 +8302,7 @@
             ]
           },
           {
-            "index": "209",
+            "index": "208",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 32999,
             "original_price": null,
@@ -8322,7 +8327,7 @@
             ]
           },
           {
-            "index": "210",
+            "index": "209",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 35999,
             "original_price": null,
@@ -8347,7 +8352,7 @@
             ]
           },
           {
-            "index": "211",
+            "index": "210",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -8372,7 +8377,7 @@
             ]
           },
           {
-            "index": "212",
+            "index": "211",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -8397,7 +8402,7 @@
             ]
           },
           {
-            "index": "213",
+            "index": "212",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -8422,7 +8427,7 @@
             ]
           },
           {
-            "index": "214",
+            "index": "213",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -8447,7 +8452,7 @@
             ]
           },
           {
-            "index": "215",
+            "index": "214",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 28999,
             "original_price": null,
@@ -8473,7 +8478,7 @@
             ]
           },
           {
-            "index": "216",
+            "index": "215",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 33999,
             "original_price": null,
@@ -8498,7 +8503,7 @@
             ]
           },
           {
-            "index": "217",
+            "index": "216",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 31900,
             "original_price": null,
@@ -8524,7 +8529,7 @@
             ]
           },
           {
-            "index": "218",
+            "index": "217",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 36999,
             "original_price": null,
@@ -8549,7 +8554,7 @@
             ]
           },
           {
-            "index": "219",
+            "index": "218",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -8575,7 +8580,7 @@
             ]
           },
           {
-            "index": "221",
+            "index": "220",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 44999,
             "original_price": null,
@@ -8600,7 +8605,7 @@
             ]
           },
           {
-            "index": "222",
+            "index": "221",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 40999,
             "original_price": 40999,
@@ -8633,7 +8638,7 @@
         "name": "17 吋 華碩 Vivobook 系列",
         "products": [
           {
-            "index": "223",
+            "index": "222",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 26999,
             "original_price": null,
@@ -8664,7 +8669,7 @@
         "name": "18 吋 華碩 Vivobook 系列",
         "products": [
           {
-            "index": "224",
+            "index": "223",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 38999,
             "original_price": null,
@@ -8694,7 +8699,7 @@
         "name": "14 吋 華碩 TUF Gaming / ROG 電競系列",
         "products": [
           {
-            "index": "225",
+            "index": "224",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 59999,
             "original_price": null,
@@ -8719,7 +8724,7 @@
             ]
           },
           {
-            "index": "226",
+            "index": "225",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 59999,
             "original_price": null,
@@ -8745,7 +8750,7 @@
             ]
           },
           {
-            "index": "227",
+            "index": "226",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 68999,
             "original_price": null,
@@ -8770,7 +8775,7 @@
             ]
           },
           {
-            "index": "228",
+            "index": "227",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 68999,
             "original_price": null,
@@ -8795,7 +8800,7 @@
             ]
           },
           {
-            "index": "229",
+            "index": "228",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 65900,
             "original_price": null,
@@ -8821,7 +8826,7 @@
             ]
           },
           {
-            "index": "230",
+            "index": "229",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 95999,
             "original_price": null,
@@ -8846,7 +8851,7 @@
             ]
           },
           {
-            "index": "231",
+            "index": "230",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 139999,
             "original_price": null,
@@ -8876,7 +8881,7 @@
         "name": "15 吋 華碩 TUF Gaming 電競系列",
         "products": [
           {
-            "index": "232",
+            "index": "231",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 32999,
             "original_price": null,
@@ -8907,7 +8912,7 @@
         "name": "16 吋 華碩 TUF Gaming / ROG / Zephyrus 電競系列",
         "products": [
           {
-            "index": "233",
+            "index": "232",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 37999,
             "original_price": null,
@@ -8933,7 +8938,7 @@
             ]
           },
           {
-            "index": "234",
+            "index": "233",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 42999,
             "original_price": null,
@@ -8958,7 +8963,7 @@
             ]
           },
           {
-            "index": "235",
+            "index": "234",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 48888,
             "original_price": null,
@@ -8984,7 +8989,7 @@
             ]
           },
           {
-            "index": "237",
+            "index": "236",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 36999,
             "original_price": null,
@@ -9009,7 +9014,7 @@
             ]
           },
           {
-            "index": "238",
+            "index": "237",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 39999,
             "original_price": null,
@@ -9034,7 +9039,7 @@
             ]
           },
           {
-            "index": "239",
+            "index": "238",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 56999,
             "original_price": null,
@@ -9060,7 +9065,7 @@
             ]
           },
           {
-            "index": "240",
+            "index": "239",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 48999,
             "original_price": null,
@@ -9085,7 +9090,7 @@
             ]
           },
           {
-            "index": "241",
+            "index": "240",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 53999,
             "original_price": null,
@@ -9110,7 +9115,7 @@
             ]
           },
           {
-            "index": "242",
+            "index": "241",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 43999,
             "original_price": null,
@@ -9135,7 +9140,7 @@
             ]
           },
           {
-            "index": "243",
+            "index": "242",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 47999,
             "original_price": null,
@@ -9160,7 +9165,7 @@
             ]
           },
           {
-            "index": "244",
+            "index": "243",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 47999,
             "original_price": null,
@@ -9185,7 +9190,7 @@
             ]
           },
           {
-            "index": "245",
+            "index": "244",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 50999,
             "original_price": null,
@@ -9211,7 +9216,7 @@
             ]
           },
           {
-            "index": "247",
+            "index": "246",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 60999,
             "original_price": null,
@@ -9236,7 +9241,7 @@
             ]
           },
           {
-            "index": "248",
+            "index": "247",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 65999,
             "original_price": null,
@@ -9262,7 +9267,7 @@
             ]
           },
           {
-            "index": "249",
+            "index": "248",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 75999,
             "original_price": null,
@@ -9287,7 +9292,7 @@
             ]
           },
           {
-            "index": "250",
+            "index": "249",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 75999,
             "original_price": null,
@@ -9312,7 +9317,7 @@
             ]
           },
           {
-            "index": "251",
+            "index": "250",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 66999,
             "original_price": null,
@@ -9337,7 +9342,7 @@
             ]
           },
           {
-            "index": "252",
+            "index": "251",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 66999,
             "original_price": null,
@@ -9363,7 +9368,7 @@
             ]
           },
           {
-            "index": "253",
+            "index": "252",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 81999,
             "original_price": null,
@@ -9388,7 +9393,7 @@
             ]
           },
           {
-            "index": "254",
+            "index": "253",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 97999,
             "original_price": null,
@@ -9413,7 +9418,7 @@
             ]
           },
           {
-            "index": "255",
+            "index": "254",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 111999,
             "original_price": null,
@@ -9439,7 +9444,7 @@
             ]
           },
           {
-            "index": "256",
+            "index": "255",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 95999,
             "original_price": null,
@@ -9464,7 +9469,7 @@
             ]
           },
           {
-            "index": "257",
+            "index": "256",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 95999,
             "original_price": null,
@@ -9489,7 +9494,7 @@
             ]
           },
           {
-            "index": "258",
+            "index": "257",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 95999,
             "original_price": null,
@@ -9514,7 +9519,7 @@
             ]
           },
           {
-            "index": "259",
+            "index": "258",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 139999,
             "original_price": null,
@@ -9539,7 +9544,7 @@
             ]
           },
           {
-            "index": "260",
+            "index": "259",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 189999,
             "original_price": null,
@@ -9564,7 +9569,7 @@
             ]
           },
           {
-            "index": "261",
+            "index": "260",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 239999,
             "original_price": null,
@@ -9594,7 +9599,7 @@
         "name": "17 吋 華碩 TUF Gaming / ROG 電競系列",
         "products": [
           {
-            "index": "263",
+            "index": "262",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 36999,
             "original_price": null,
@@ -9619,7 +9624,7 @@
             ]
           },
           {
-            "index": "264",
+            "index": "263",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 36999,
             "original_price": null,
@@ -9644,7 +9649,7 @@
             ]
           },
           {
-            "index": "265",
+            "index": "264",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 41999,
             "original_price": null,
@@ -9674,7 +9679,7 @@
         "name": "18 吋 華碩 TUF Gaming / ROG 電競系列",
         "products": [
           {
-            "index": "266",
+            "index": "265",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 51999,
             "original_price": null,
@@ -9699,7 +9704,7 @@
             ]
           },
           {
-            "index": "267",
+            "index": "266",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 59999,
             "original_price": null,
@@ -9725,7 +9730,7 @@
             ]
           },
           {
-            "index": "269",
+            "index": "268",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 75999,
             "original_price": null,
@@ -9751,7 +9756,7 @@
             ]
           },
           {
-            "index": "270",
+            "index": "269",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 75999,
             "original_price": null,
@@ -9776,7 +9781,7 @@
             ]
           },
           {
-            "index": "271",
+            "index": "270",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 61999,
             "original_price": null,
@@ -9801,7 +9806,7 @@
             ]
           },
           {
-            "index": "272",
+            "index": "271",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 81999,
             "original_price": null,
@@ -9826,7 +9831,7 @@
             ]
           },
           {
-            "index": "273",
+            "index": "272",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 113999,
             "original_price": null,
@@ -9851,7 +9856,7 @@
             ]
           },
           {
-            "index": "274",
+            "index": "273",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 119999,
             "original_price": null,
@@ -9876,7 +9881,7 @@
             ]
           },
           {
-            "index": "275",
+            "index": "274",
             "group": "❤ 超輕量16吋OLED低至1.1公斤CPU極緻省電最高43hrs超長效高通 Qualcomm 8核處理器",
             "price": 245999,
             "original_price": null,
@@ -9906,7 +9911,7 @@
         "name": "13.3吋 DELL戴爾 Inspiron 5000 系列",
         "products": [
           {
-            "index": "278",
+            "index": "277",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 34990,
             "original_price": null,
@@ -9932,7 +9937,7 @@
             ]
           },
           {
-            "index": "279",
+            "index": "278",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 2290,
             "original_price": null,
@@ -9952,7 +9957,7 @@
         "name": "14吋 DELL戴爾 Inspiron 7000 Plus 系列 〈高性能創作筆電〉",
         "products": [
           {
-            "index": "281",
+            "index": "280",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 35990,
             "original_price": null,
@@ -9977,7 +9982,7 @@
             ]
           },
           {
-            "index": "282",
+            "index": "281",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 2290,
             "original_price": null,
@@ -9997,7 +10002,7 @@
         "name": "14吋 戴爾 DELL Base 系列",
         "products": [
           {
-            "index": "283",
+            "index": "282",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 25990,
             "original_price": 25990,
@@ -10024,7 +10029,7 @@
             ]
           },
           {
-            "index": "284",
+            "index": "283",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 35990,
             "original_price": null,
@@ -10049,7 +10054,7 @@
             ]
           },
           {
-            "index": "285",
+            "index": "284",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 33990,
             "original_price": 33990,
@@ -10075,7 +10080,7 @@
             ]
           },
           {
-            "index": "286",
+            "index": "285",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 45990,
             "original_price": null,
@@ -10104,7 +10109,7 @@
         "name": "14吋 戴爾 DELL Plus 系列",
         "products": [
           {
-            "index": "288",
+            "index": "287",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 37990,
             "original_price": 37990,
@@ -10136,7 +10141,7 @@
         "name": "14吋 戴爾 DELL Pro Base 系列",
         "products": [
           {
-            "index": "290",
+            "index": "289",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 34990,
             "original_price": 34990,
@@ -10163,7 +10168,7 @@
             ]
           },
           {
-            "index": "291",
+            "index": "290",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 34990,
             "original_price": 34990,
@@ -10189,7 +10194,7 @@
             ]
           },
           {
-            "index": "292",
+            "index": "291",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 40990,
             "original_price": 40990,
@@ -10216,7 +10221,7 @@
             ]
           },
           {
-            "index": "293",
+            "index": "292",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 44990,
             "original_price": null,
@@ -10241,7 +10246,7 @@
             ]
           },
           {
-            "index": "294",
+            "index": "293",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 39990,
             "original_price": 39990,
@@ -10267,7 +10272,7 @@
             ]
           },
           {
-            "index": "295",
+            "index": "294",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 45900,
             "original_price": null,
@@ -10291,7 +10296,7 @@
             ]
           },
           {
-            "index": "296",
+            "index": "295",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 47990,
             "original_price": null,
@@ -10321,7 +10326,7 @@
         "name": "15吋 戴爾 DELL Base 系列",
         "products": [
           {
-            "index": "297",
+            "index": "296",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 19999,
             "original_price": 19999,
@@ -10348,7 +10353,7 @@
             ]
           },
           {
-            "index": "298",
+            "index": "297",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 39990,
             "original_price": 39990,
@@ -10379,7 +10384,7 @@
         "name": "16吋 戴爾 DELL Pro Base 系列",
         "products": [
           {
-            "index": "300",
+            "index": "299",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 34990,
             "original_price": 34990,
@@ -10406,7 +10411,7 @@
             ]
           },
           {
-            "index": "301",
+            "index": "300",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 40990,
             "original_price": 40990,
@@ -10433,7 +10438,7 @@
             ]
           },
           {
-            "index": "302",
+            "index": "301",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 44990,
             "original_price": 44990,
@@ -10460,7 +10465,7 @@
             ]
           },
           {
-            "index": "303",
+            "index": "302",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 47990,
             "original_price": null,
@@ -10485,7 +10490,7 @@
             ]
           },
           {
-            "index": "304",
+            "index": "303",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 47990,
             "original_price": 47990,
@@ -10517,7 +10522,7 @@
         "name": "14吋 戴爾 DELL Pro Plus 系列",
         "products": [
           {
-            "index": "306",
+            "index": "305",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 58990,
             "original_price": null,
@@ -10542,7 +10547,7 @@
             ]
           },
           {
-            "index": "308",
+            "index": "307",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 59990,
             "original_price": null,
@@ -10572,7 +10577,7 @@
         "name": "14吋 戴爾 DELL Pro Essential 系列",
         "products": [
           {
-            "index": "310",
+            "index": "309",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 40990,
             "original_price": null,
@@ -10596,7 +10601,7 @@
             ]
           },
           {
-            "index": "311",
+            "index": "310",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 40990,
             "original_price": 40990,
@@ -10627,7 +10632,7 @@
         "name": "16吋 戴爾 DELL Alienware 系列",
         "products": [
           {
-            "index": "313",
+            "index": "312",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 59990,
             "original_price": null,
@@ -10651,7 +10656,7 @@
             ]
           },
           {
-            "index": "314",
+            "index": "313",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 89990,
             "original_price": null,
@@ -10675,7 +10680,7 @@
             ]
           },
           {
-            "index": "315",
+            "index": "314",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 109990,
             "original_price": null,
@@ -10704,7 +10709,7 @@
         "name": "15.6吋 捷元 ZEUS 15N/15V/15X/15H/15G 系列【二年保固，到府收送】",
         "products": [
           {
-            "index": "316",
+            "index": "315",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 12999,
             "original_price": null,
@@ -10728,7 +10733,7 @@
             ]
           },
           {
-            "index": "317",
+            "index": "316",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 21999,
             "original_price": null,
@@ -10752,7 +10757,7 @@
             ]
           },
           {
-            "index": "318",
+            "index": "317",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 29900,
             "original_price": null,
@@ -10777,7 +10782,7 @@
             ]
           },
           {
-            "index": "319",
+            "index": "318",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 31890,
             "original_price": null,
@@ -10801,7 +10806,7 @@
             ]
           },
           {
-            "index": "320",
+            "index": "319",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 46990,
             "original_price": null,
@@ -10831,7 +10836,7 @@
         "name": "16吋 捷元 AI Pro 系列【二年保固，到府收送】RAM終保、SSD五年保",
         "products": [
           {
-            "index": "321",
+            "index": "320",
             "group": "❤ DELL 筆電享有原廠〈24hr線上故障診斷〉及〈工作日現場維修(家庭、學校、工作)〉",
             "price": 26800,
             "original_price": null,
@@ -10860,7 +10865,7 @@
         "name": "16吋 技嘉 GIGABYTE AERO X16 AI筆電",
         "products": [
           {
-            "index": "324",
+            "index": "323",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 5299,
             "original_price": null,
@@ -10875,7 +10880,7 @@
             "details": []
           },
           {
-            "index": "325",
+            "index": "324",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 44900,
             "original_price": null,
@@ -10899,7 +10904,7 @@
             ]
           },
           {
-            "index": "326",
+            "index": "325",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 53900,
             "original_price": null,
@@ -10923,7 +10928,7 @@
             ]
           },
           {
-            "index": "327",
+            "index": "326",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 53900,
             "original_price": null,
@@ -10947,7 +10952,7 @@
             ]
           },
           {
-            "index": "328",
+            "index": "327",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 59900,
             "original_price": null,
@@ -10972,7 +10977,7 @@
             ]
           },
           {
-            "index": "329",
+            "index": "328",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 59900,
             "original_price": null,
@@ -10997,7 +11002,7 @@
             ]
           },
           {
-            "index": "330",
+            "index": "329",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 62900,
             "original_price": null,
@@ -11021,7 +11026,7 @@
             ]
           },
           {
-            "index": "331",
+            "index": "330",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 69900,
             "original_price": null,
@@ -11051,7 +11056,7 @@
         "name": "16吋 技嘉 GIGABYTE EAGLE",
         "products": [
           {
-            "index": "332",
+            "index": "331",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 37900,
             "original_price": null,
@@ -11080,7 +11085,7 @@
         "name": "16吋 技嘉 GIGABYTE GAMING A16",
         "products": [
           {
-            "index": "333",
+            "index": "332",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 5299,
             "original_price": null,
@@ -11095,7 +11100,7 @@
             "details": []
           },
           {
-            "index": "334",
+            "index": "333",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 31999,
             "original_price": null,
@@ -11119,7 +11124,7 @@
             ]
           },
           {
-            "index": "335",
+            "index": "334",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 39900,
             "original_price": null,
@@ -11143,7 +11148,7 @@
             ]
           },
           {
-            "index": "336",
+            "index": "335",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 42900,
             "original_price": 42900,
@@ -11169,7 +11174,7 @@
             ]
           },
           {
-            "index": "337",
+            "index": "336",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 46900,
             "original_price": null,
@@ -11193,7 +11198,7 @@
             ]
           },
           {
-            "index": "338",
+            "index": "337",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 51900,
             "original_price": null,
@@ -11217,7 +11222,7 @@
             ]
           },
           {
-            "index": "339",
+            "index": "338",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 41900,
             "original_price": 41900,
@@ -11243,7 +11248,7 @@
             ]
           },
           {
-            "index": "340",
+            "index": "339",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 45900,
             "original_price": 45900,
@@ -11269,7 +11274,7 @@
             ]
           },
           {
-            "index": "342",
+            "index": "341",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 50900,
             "original_price": null,
@@ -11293,7 +11298,7 @@
             ]
           },
           {
-            "index": "343",
+            "index": "342",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 59900,
             "original_price": null,
@@ -11323,7 +11328,7 @@
         "name": "16 吋 技嘉 AORUS MASTER 16",
         "products": [
           {
-            "index": "344",
+            "index": "343",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 5299,
             "original_price": null,
@@ -11338,7 +11343,7 @@
             "details": []
           },
           {
-            "index": "345",
+            "index": "344",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 78900,
             "original_price": null,
@@ -11363,7 +11368,7 @@
             ]
           },
           {
-            "index": "346",
+            "index": "345",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 114900,
             "original_price": null,
@@ -11388,7 +11393,7 @@
             ]
           },
           {
-            "index": "347",
+            "index": "346",
             "group": "❤ 5/25~7/20活動期間凡購買 技嘉指定系列產品並完成登錄，加碼再送『 獨家好禮 』。(送完為止)",
             "price": 146900,
             "original_price": null,
@@ -11418,7 +11423,7 @@
         "name": "13 吋 微星 - 輕薄商務系列 Prestige",
         "products": [
           {
-            "index": "351",
+            "index": "350",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 39000,
             "original_price": null,
@@ -11444,7 +11449,7 @@
             ]
           },
           {
-            "index": "353",
+            "index": "352",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 53900,
             "original_price": 53900,
@@ -11470,7 +11475,7 @@
             ]
           },
           {
-            "index": "354",
+            "index": "353",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 63900,
             "original_price": null,
@@ -11500,7 +11505,7 @@
         "name": "14 吋 微星 - 輕薄商務系列 Modern S /Prestige / Commercial 效能商務AI系列 Venture",
         "products": [
           {
-            "index": "355",
+            "index": "354",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 27900,
             "original_price": null,
@@ -11525,7 +11530,7 @@
             ]
           },
           {
-            "index": "356",
+            "index": "355",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 28900,
             "original_price": null,
@@ -11550,7 +11555,7 @@
             ]
           },
           {
-            "index": "357",
+            "index": "356",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 26500,
             "original_price": null,
@@ -11575,7 +11580,7 @@
             ]
           },
           {
-            "index": "358",
+            "index": "357",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 34900,
             "original_price": null,
@@ -11600,7 +11605,7 @@
             ]
           },
           {
-            "index": "359",
+            "index": "358",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 56000,
             "original_price": null,
@@ -11625,7 +11630,7 @@
             ]
           },
           {
-            "index": "360",
+            "index": "359",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 63000,
             "original_price": null,
@@ -11656,7 +11661,7 @@
         "name": "15 吋 微星 - 輕薄美型系列 Modern / VenturePro",
         "products": [
           {
-            "index": "361",
+            "index": "360",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 21500,
             "original_price": null,
@@ -11681,7 +11686,7 @@
             ]
           },
           {
-            "index": "362",
+            "index": "361",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 24600,
             "original_price": 24600,
@@ -11707,7 +11712,7 @@
             ]
           },
           {
-            "index": "363",
+            "index": "362",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 25899,
             "original_price": null,
@@ -11732,7 +11737,7 @@
             ]
           },
           {
-            "index": "364",
+            "index": "363",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 29600,
             "original_price": 29600,
@@ -11758,7 +11763,7 @@
             ]
           },
           {
-            "index": "365",
+            "index": "364",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 52900,
             "original_price": null,
@@ -11788,7 +11793,7 @@
         "name": "16 吋 微星 - 輕薄商務系列 Prestige / Modern S",
         "products": [
           {
-            "index": "366",
+            "index": "365",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 40900,
             "original_price": null,
@@ -11813,7 +11818,7 @@
             ]
           },
           {
-            "index": "367",
+            "index": "366",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 74900,
             "original_price": null,
@@ -11843,7 +11848,7 @@
         "name": "15 吋 微星 - 炫彩戰鬥系列 Cyborg MAX/Katana",
         "products": [
           {
-            "index": "368",
+            "index": "367",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 31999,
             "original_price": null,
@@ -11868,7 +11873,7 @@
             ]
           },
           {
-            "index": "369",
+            "index": "368",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 33999,
             "original_price": null,
@@ -11894,7 +11899,7 @@
             ]
           },
           {
-            "index": "370",
+            "index": "369",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 34900,
             "original_price": null,
@@ -11919,7 +11924,7 @@
             ]
           },
           {
-            "index": "371",
+            "index": "370",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 34900,
             "original_price": null,
@@ -11945,7 +11950,7 @@
             ]
           },
           {
-            "index": "372",
+            "index": "371",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 37999,
             "original_price": 37999,
@@ -11972,7 +11977,7 @@
             ]
           },
           {
-            "index": "373",
+            "index": "372",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 39900,
             "original_price": null,
@@ -11998,7 +12003,7 @@
             ]
           },
           {
-            "index": "375",
+            "index": "374",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 44900,
             "original_price": null,
@@ -12023,7 +12028,7 @@
             ]
           },
           {
-            "index": "376",
+            "index": "375",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 49900,
             "original_price": 49900,
@@ -12049,7 +12054,7 @@
             ]
           },
           {
-            "index": "377",
+            "index": "376",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 52900,
             "original_price": 52900,
@@ -12077,7 +12082,7 @@
             ]
           },
           {
-            "index": "378",
+            "index": "377",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 48999,
             "original_price": 48999,
@@ -12103,7 +12108,7 @@
             ]
           },
           {
-            "index": "379",
+            "index": "378",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 49999,
             "original_price": 49999,
@@ -12130,7 +12135,7 @@
             ]
           },
           {
-            "index": "380",
+            "index": "379",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 56289,
             "original_price": null,
@@ -12145,7 +12150,7 @@
             "details": []
           },
           {
-            "index": "381",
+            "index": "380",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 69900,
             "original_price": 69900,
@@ -12177,7 +12182,7 @@
         "name": "16 吋 微星 - 極致龍魂系列 Pulse/Crosshair MAX/Stealth/Raider MAX",
         "products": [
           {
-            "index": "382",
+            "index": "381",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 48400,
             "original_price": null,
@@ -12202,7 +12207,7 @@
             ]
           },
           {
-            "index": "383",
+            "index": "382",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 57900,
             "original_price": null,
@@ -12229,7 +12234,7 @@
             ]
           },
           {
-            "index": "384",
+            "index": "383",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 59900,
             "original_price": null,
@@ -12254,7 +12259,7 @@
             ]
           },
           {
-            "index": "385",
+            "index": "384",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 64900,
             "original_price": null,
@@ -12279,7 +12284,7 @@
             ]
           },
           {
-            "index": "386",
+            "index": "385",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 67900,
             "original_price": null,
@@ -12304,7 +12309,7 @@
             ]
           },
           {
-            "index": "387",
+            "index": "386",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 62900,
             "original_price": null,
@@ -12330,7 +12335,7 @@
             ]
           },
           {
-            "index": "388",
+            "index": "387",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 74900,
             "original_price": null,
@@ -12355,7 +12360,7 @@
             ]
           },
           {
-            "index": "389",
+            "index": "388",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 79000,
             "original_price": 79000,
@@ -12384,7 +12389,7 @@
             ]
           },
           {
-            "index": "390",
+            "index": "389",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 86900,
             "original_price": null,
@@ -12409,7 +12414,7 @@
             ]
           },
           {
-            "index": "391",
+            "index": "390",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 129000,
             "original_price": null,
@@ -12435,7 +12440,7 @@
             ]
           },
           {
-            "index": "392",
+            "index": "391",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 89900,
             "original_price": null,
@@ -12460,7 +12465,7 @@
             ]
           },
           {
-            "index": "393",
+            "index": "392",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 96190,
             "original_price": null,
@@ -12486,7 +12491,7 @@
             ]
           },
           {
-            "index": "394",
+            "index": "393",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 119000,
             "original_price": null,
@@ -12511,7 +12516,7 @@
             ]
           },
           {
-            "index": "395",
+            "index": "394",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 124000,
             "original_price": null,
@@ -12537,7 +12542,7 @@
             ]
           },
           {
-            "index": "396",
+            "index": "395",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 149900,
             "original_price": 149900,
@@ -12565,7 +12570,7 @@
             ]
           },
           {
-            "index": "397",
+            "index": "396",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 159900,
             "original_price": null,
@@ -12596,7 +12601,7 @@
         "name": "17 吋 微星 - 巔峰效能系列 Cyborg/Katana/Crosshair",
         "products": [
           {
-            "index": "398",
+            "index": "397",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 40999,
             "original_price": 40999,
@@ -12623,7 +12628,7 @@
             ]
           },
           {
-            "index": "399",
+            "index": "398",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 43900,
             "original_price": null,
@@ -12648,7 +12653,7 @@
             ]
           },
           {
-            "index": "400",
+            "index": "399",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 46900,
             "original_price": null,
@@ -12673,7 +12678,7 @@
             ]
           },
           {
-            "index": "401",
+            "index": "400",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 56000,
             "original_price": null,
@@ -12698,7 +12703,7 @@
             ]
           },
           {
-            "index": "402",
+            "index": "401",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 62290,
             "original_price": null,
@@ -12724,7 +12729,7 @@
             ]
           },
           {
-            "index": "403",
+            "index": "402",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 62900,
             "original_price": null,
@@ -12748,7 +12753,7 @@
             ]
           },
           {
-            "index": "404",
+            "index": "403",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 69190,
             "original_price": null,
@@ -12778,7 +12783,7 @@
         "name": "18 吋 微星 - 極致炫彩系列 Vector/Crosshair/Stealth/Raider/Titan 電競霸主",
         "products": [
           {
-            "index": "405",
+            "index": "404",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 64900,
             "original_price": null,
@@ -12803,7 +12808,7 @@
             ]
           },
           {
-            "index": "406",
+            "index": "405",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 168000,
             "original_price": null,
@@ -12829,7 +12834,7 @@
             ]
           },
           {
-            "index": "407",
+            "index": "406",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 199900,
             "original_price": null,
@@ -12855,7 +12860,7 @@
             ]
           },
           {
-            "index": "408",
+            "index": "407",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 229900,
             "original_price": null,
@@ -12885,7 +12890,7 @@
         "name": "16.0吋 LG Gram -榮獲金氏世界紀錄最輕16吋筆電",
         "products": [
           {
-            "index": "409",
+            "index": "408",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 38500,
             "original_price": null,
@@ -12911,7 +12916,7 @@
             ]
           },
           {
-            "index": "410",
+            "index": "409",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 38500,
             "original_price": null,
@@ -12942,7 +12947,7 @@
         "name": "16 吋 LG Gram Pro 最新的處理器，領航著速度的先驅",
         "products": [
           {
-            "index": "411",
+            "index": "410",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 53600,
             "original_price": null,
@@ -12967,7 +12972,7 @@
             ]
           },
           {
-            "index": "412",
+            "index": "411",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 53600,
             "original_price": null,
@@ -12992,7 +12997,7 @@
             ]
           },
           {
-            "index": "413",
+            "index": "412",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 52900,
             "original_price": null,
@@ -13017,7 +13022,7 @@
             ]
           },
           {
-            "index": "414",
+            "index": "413",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 70900,
             "original_price": null,
@@ -13042,7 +13047,7 @@
             ]
           },
           {
-            "index": "415",
+            "index": "414",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 88900,
             "original_price": null,
@@ -13067,7 +13072,7 @@
             ]
           },
           {
-            "index": "416",
+            "index": "415",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 88900,
             "original_price": null,
@@ -13097,7 +13102,7 @@
         "name": "17 吋 LG Gram 高科技奈米碳鎂通過美國軍規測試",
         "products": [
           {
-            "index": "417",
+            "index": "416",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 53900,
             "original_price": null,
@@ -13122,7 +13127,7 @@
             ]
           },
           {
-            "index": "418",
+            "index": "417",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": 77900,
             "original_price": null,
@@ -13152,7 +13157,7 @@
         "name": "HP惠普 家用筆電館-全館刷卡分期零利率(3)",
         "products": [
           {
-            "index": "419",
+            "index": "418",
             "group": "❤ 全館購買MSI筆電贈 保眼抗藍光保護貼 + 超潔亮麗清潔套組 送完為止",
             "price": null,
             "original_price": null,
@@ -13170,7 +13175,7 @@
         "name": "13 吋 HP OmniBook 7系列",
         "products": [
           {
-            "index": "421",
+            "index": "420",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13183,7 +13188,7 @@
             "details": null
           },
           {
-            "index": "422",
+            "index": "421",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 33900,
             "original_price": null,
@@ -13213,7 +13218,7 @@
         "name": "14 吋 HP OmniBook 7 HP OmniBook UltraNGAI",
         "products": [
           {
-            "index": "424",
+            "index": "423",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13226,7 +13231,7 @@
             "details": null
           },
           {
-            "index": "425",
+            "index": "424",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 37900,
             "original_price": null,
@@ -13252,7 +13257,7 @@
             ]
           },
           {
-            "index": "427",
+            "index": "426",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 69900,
             "original_price": null,
@@ -13282,7 +13287,7 @@
         "name": "14 吋 HP OmniBook 5 翻轉觸控筆電",
         "products": [
           {
-            "index": "429",
+            "index": "428",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13295,7 +13300,7 @@
             "details": null
           },
           {
-            "index": "430",
+            "index": "429",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 32900,
             "original_price": null,
@@ -13321,7 +13326,7 @@
             ]
           },
           {
-            "index": "431",
+            "index": "430",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 32900,
             "original_price": null,
@@ -13346,7 +13351,7 @@
             ]
           },
           {
-            "index": "432",
+            "index": "431",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 37900,
             "original_price": null,
@@ -13376,7 +13381,7 @@
         "name": "16 吋 HP OmniBook 5 觸控筆電",
         "products": [
           {
-            "index": "433",
+            "index": "432",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13389,7 +13394,7 @@
             "details": null
           },
           {
-            "index": "434",
+            "index": "433",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 34699,
             "original_price": null,
@@ -13419,7 +13424,7 @@
         "name": "16 吋 HP OmniBook 3",
         "products": [
           {
-            "index": "435",
+            "index": "434",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13432,7 +13437,7 @@
             "details": null
           },
           {
-            "index": "436",
+            "index": "435",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 34900,
             "original_price": null,
@@ -13462,7 +13467,7 @@
         "name": "15 吋 HP Laptop 超品",
         "products": [
           {
-            "index": "437",
+            "index": "436",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13475,7 +13480,7 @@
             "details": null
           },
           {
-            "index": "438",
+            "index": "437",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 15900,
             "original_price": null,
@@ -13505,7 +13510,7 @@
         "name": "15吋 HP HyperX OMEN 潮競系列 /Victus 光影系列",
         "products": [
           {
-            "index": "439",
+            "index": "438",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": null,
             "original_price": null,
@@ -13518,7 +13523,7 @@
             "details": null
           },
           {
-            "index": "440",
+            "index": "439",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 45900,
             "original_price": 45900,
@@ -13547,7 +13552,7 @@
             ]
           },
           {
-            "index": "442",
+            "index": "441",
             "group": "❤ 7/1~7/31 購買HP 指定型號筆電 官網登入送購物禮卷",
             "price": 64900,
             "original_price": null,
@@ -13577,7 +13582,7 @@
         "name": "14 吋 HP惠普 ZBook Firefly 14 系列〈創意行動達人〉",
         "products": [
           {
-            "index": "445",
+            "index": "444",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 39900,
             "original_price": 39900,
@@ -13608,7 +13613,7 @@
         "name": "14吋 HP惠普 ZBook 8 G1i/G1a 14 系列",
         "products": [
           {
-            "index": "447",
+            "index": "446",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 56900,
             "original_price": null,
@@ -13638,7 +13643,7 @@
         "name": "16 吋 HP惠普 ZBook 8 G1i/G1a 14 系列",
         "products": [
           {
-            "index": "449",
+            "index": "448",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 57900,
             "original_price": null,
@@ -13668,7 +13673,7 @@
         "name": "筆電周邊",
         "products": [
           {
-            "index": "450",
+            "index": "449",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 390,
             "original_price": null,
@@ -13693,7 +13698,7 @@
         "name": "筆電變壓器",
         "products": [
           {
-            "index": "451",
+            "index": "450",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 3390,
             "original_price": null,
@@ -13716,7 +13721,7 @@
             ]
           },
           {
-            "index": "452",
+            "index": "451",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2390,
             "original_price": null,
@@ -13739,7 +13744,7 @@
             ]
           },
           {
-            "index": "453",
+            "index": "452",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 299,
             "original_price": null,
@@ -13760,7 +13765,7 @@
             ]
           },
           {
-            "index": "454",
+            "index": "453",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 990,
             "original_price": null,
@@ -13783,7 +13788,7 @@
             ]
           },
           {
-            "index": "456",
+            "index": "455",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1420,
             "original_price": null,
@@ -13805,7 +13810,7 @@
             ]
           },
           {
-            "index": "457",
+            "index": "456",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1122,
             "original_price": null,
@@ -13818,7 +13823,7 @@
             "details": null
           },
           {
-            "index": "458",
+            "index": "457",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 549,
             "original_price": null,
@@ -13841,7 +13846,7 @@
             ]
           },
           {
-            "index": "459",
+            "index": "458",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 748,
             "original_price": 748,
@@ -13866,7 +13871,7 @@
             ]
           },
           {
-            "index": "460",
+            "index": "459",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 699,
             "original_price": null,
@@ -13889,7 +13894,7 @@
             ]
           },
           {
-            "index": "461",
+            "index": "460",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 899,
             "original_price": null,
@@ -13912,7 +13917,7 @@
             ]
           },
           {
-            "index": "462",
+            "index": "461",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1298,
             "original_price": 1298,
@@ -13937,7 +13942,7 @@
             ]
           },
           {
-            "index": "463",
+            "index": "462",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1499,
             "original_price": 1499,
@@ -13962,7 +13967,7 @@
             ]
           },
           {
-            "index": "464",
+            "index": "463",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1699,
             "original_price": null,
@@ -13985,7 +13990,7 @@
             ]
           },
           {
-            "index": "465",
+            "index": "464",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2499,
             "original_price": null,
@@ -14007,7 +14012,7 @@
             ]
           },
           {
-            "index": "466",
+            "index": "465",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -14034,7 +14039,7 @@
         "name": "快速充電座",
         "products": [
           {
-            "index": "468",
+            "index": "467",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1122,
             "original_price": null,
@@ -14047,7 +14052,7 @@
             "details": null
           },
           {
-            "index": "469",
+            "index": "468",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 279,
             "original_price": 279,
@@ -14071,7 +14076,7 @@
             ]
           },
           {
-            "index": "470",
+            "index": "469",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 399,
             "original_price": 399,
@@ -14095,7 +14100,7 @@
             ]
           },
           {
-            "index": "471",
+            "index": "470",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -14117,7 +14122,7 @@
             ]
           },
           {
-            "index": "472",
+            "index": "471",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1299,
             "original_price": 1299,
@@ -14142,7 +14147,7 @@
             ]
           },
           {
-            "index": "473",
+            "index": "472",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1848,
             "original_price": 1848,
@@ -14167,7 +14172,7 @@
             ]
           },
           {
-            "index": "474",
+            "index": "473",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2598,
             "original_price": 2598,
@@ -14192,7 +14197,7 @@
             ]
           },
           {
-            "index": "475",
+            "index": "474",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1399,
             "original_price": 1399,
@@ -14222,7 +14227,7 @@
         "name": "行動電源",
         "products": [
           {
-            "index": "476",
+            "index": "475",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 429,
             "original_price": null,
@@ -14245,7 +14250,7 @@
             ]
           },
           {
-            "index": "477",
+            "index": "476",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 429,
             "original_price": null,
@@ -14268,7 +14273,7 @@
             ]
           },
           {
-            "index": "478",
+            "index": "477",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -14290,7 +14295,7 @@
             ]
           },
           {
-            "index": "479",
+            "index": "478",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 999,
             "original_price": null,
@@ -14313,7 +14318,7 @@
             ]
           },
           {
-            "index": "480",
+            "index": "479",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1122,
             "original_price": null,
@@ -14326,7 +14331,7 @@
             "details": null
           },
           {
-            "index": "481",
+            "index": "480",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": 599,
@@ -14349,7 +14354,7 @@
             ]
           },
           {
-            "index": "482",
+            "index": "481",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": 1198,
@@ -14372,7 +14377,7 @@
             ]
           },
           {
-            "index": "483",
+            "index": "482",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": 1198,
@@ -14395,7 +14400,7 @@
             ]
           },
           {
-            "index": "484",
+            "index": "483",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": 599,
@@ -14418,7 +14423,7 @@
             ]
           },
           {
-            "index": "485",
+            "index": "484",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": 1198,
@@ -14441,7 +14446,7 @@
             ]
           },
           {
-            "index": "486",
+            "index": "485",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": 1198,
@@ -14464,7 +14469,7 @@
             ]
           },
           {
-            "index": "487",
+            "index": "486",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 499,
             "original_price": null,
@@ -14487,7 +14492,7 @@
             ]
           },
           {
-            "index": "488",
+            "index": "487",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 659,
             "original_price": null,
@@ -14510,7 +14515,7 @@
             ]
           },
           {
-            "index": "489",
+            "index": "488",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1318,
             "original_price": 1318,
@@ -14535,7 +14540,7 @@
             ]
           },
           {
-            "index": "490",
+            "index": "489",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 499,
             "original_price": 499,
@@ -14558,7 +14563,7 @@
             ]
           },
           {
-            "index": "491",
+            "index": "490",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1699,
             "original_price": 1699,
@@ -14580,7 +14585,7 @@
             ]
           },
           {
-            "index": "493",
+            "index": "492",
             "group": "❤ iWalk 口袋行動電源",
             "price": 499,
             "original_price": null,
@@ -14600,7 +14605,7 @@
             ]
           },
           {
-            "index": "494",
+            "index": "493",
             "group": "❤ iWalk 口袋行動電源",
             "price": 499,
             "original_price": null,
@@ -14620,7 +14625,7 @@
             ]
           },
           {
-            "index": "495",
+            "index": "494",
             "group": "❤ iWalk 口袋行動電源",
             "price": 499,
             "original_price": null,
@@ -14640,7 +14645,7 @@
             ]
           },
           {
-            "index": "496",
+            "index": "495",
             "group": "❤ iWalk 口袋行動電源",
             "price": 499,
             "original_price": null,
@@ -14660,7 +14665,7 @@
             ]
           },
           {
-            "index": "497",
+            "index": "496",
             "group": "❤ iWalk 口袋行動電源",
             "price": 499,
             "original_price": null,
@@ -17126,7 +17131,7 @@
   {
     "category_id": "5",
     "category_name": "主機板 MB",
-    "summary": "共有商品 392 樣，熱賣 32，圖片 392，討論 350，價格異動 7",
+    "summary": "共有商品 393 樣，熱賣 32，圖片 392，討論 351，價格異動 7",
     "subcategories": [
       {
         "name": "Intel W680 工作站級 (1700腳位/DDR5)",
@@ -25590,6 +25595,30 @@
           {
             "index": "357",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
+            "price": 17990,
+            "original_price": null,
+            "discount_amount": null,
+            "markers": [
+              "discussion"
+            ],
+            "raw_text": "華碩 ROG STRIX X870E-E GAMING WIFI7 NEO(ATX/LAN 5G+Wi-Fi 7/註五年)18+2+2相",
+            "full_text": "華碩 ROG STRIX X870E-E GAMING WIFI7 NEO(ATX/LAN 5G+Wi-Fi 7/註五年)18+2+2相, $17990 ◆",
+            "img_url": "https://www.coolpc.com.tw/eval/5/",
+            "product_url": "https://rog.asus.com/tw/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/",
+            "details": [
+              "CPU：AM5",
+              "尺寸：ATX",
+              "顯示：1*HDMI(2.1) / 2*USB4(Type-C) / PCI-E 5.0",
+              "儲存：5*M.2(2*PCIe 5.0) / 4*SATA3",
+              "USB：2*USB4(40Gbps)/總數13",
+              "網路：Realtek 5Gb+Wi-Fi 7+BT5.4",
+              "保固：註冊五年",
+              "RGB：5V(3Pin)*3"
+            ]
+          },
+          {
+            "index": "358",
+            "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 20990,
             "original_price": null,
             "discount_amount": null,
@@ -25613,7 +25642,7 @@
             ]
           },
           {
-            "index": "358",
+            "index": "359",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 20990,
             "original_price": null,
@@ -25638,7 +25667,7 @@
             ]
           },
           {
-            "index": "359",
+            "index": "360",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 23990,
             "original_price": null,
@@ -25663,7 +25692,7 @@
             ]
           },
           {
-            "index": "360",
+            "index": "361",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 23990,
             "original_price": null,
@@ -25688,7 +25717,7 @@
             ]
           },
           {
-            "index": "361",
+            "index": "362",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 36990,
             "original_price": null,
@@ -25713,7 +25742,7 @@
             ]
           },
           {
-            "index": "362",
+            "index": "363",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 7390,
             "original_price": null,
@@ -25738,7 +25767,7 @@
             ]
           },
           {
-            "index": "363",
+            "index": "364",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 9490,
             "original_price": null,
@@ -25763,7 +25792,7 @@
             ]
           },
           {
-            "index": "364",
+            "index": "365",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 10990,
             "original_price": null,
@@ -25788,7 +25817,7 @@
             ]
           },
           {
-            "index": "365",
+            "index": "366",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 10490,
             "original_price": null,
@@ -25813,7 +25842,7 @@
             ]
           },
           {
-            "index": "366",
+            "index": "367",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 10490,
             "original_price": null,
@@ -25839,7 +25868,7 @@
             ]
           },
           {
-            "index": "367",
+            "index": "368",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 10990,
             "original_price": null,
@@ -25864,7 +25893,7 @@
             ]
           },
           {
-            "index": "368",
+            "index": "369",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 10990,
             "original_price": null,
@@ -25889,7 +25918,7 @@
             ]
           },
           {
-            "index": "369",
+            "index": "370",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 11990,
             "original_price": null,
@@ -25914,7 +25943,7 @@
             ]
           },
           {
-            "index": "370",
+            "index": "371",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 12990,
             "original_price": null,
@@ -25939,7 +25968,7 @@
             ]
           },
           {
-            "index": "371",
+            "index": "372",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 13490,
             "original_price": null,
@@ -25964,7 +25993,7 @@
             ]
           },
           {
-            "index": "372",
+            "index": "373",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 13990,
             "original_price": null,
@@ -25989,7 +26018,7 @@
             ]
           },
           {
-            "index": "373",
+            "index": "374",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 13990,
             "original_price": null,
@@ -26014,7 +26043,7 @@
             ]
           },
           {
-            "index": "374",
+            "index": "375",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 20990,
             "original_price": 20990,
@@ -26040,7 +26069,7 @@
             ]
           },
           {
-            "index": "375",
+            "index": "376",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 20490,
             "original_price": null,
@@ -26066,7 +26095,7 @@
             ]
           },
           {
-            "index": "376",
+            "index": "377",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 20990,
             "original_price": null,
@@ -26091,7 +26120,7 @@
             ]
           },
           {
-            "index": "377",
+            "index": "378",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 24990,
             "original_price": null,
@@ -26116,7 +26145,7 @@
             ]
           },
           {
-            "index": "378",
+            "index": "379",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 33990,
             "original_price": null,
@@ -26141,7 +26170,7 @@
             ]
           },
           {
-            "index": "380",
+            "index": "381",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 12990,
             "original_price": null,
@@ -26166,7 +26195,7 @@
             ]
           },
           {
-            "index": "381",
+            "index": "382",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 7590,
             "original_price": null,
@@ -26192,7 +26221,7 @@
             ]
           },
           {
-            "index": "382",
+            "index": "383",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 8090,
             "original_price": null,
@@ -26217,7 +26246,7 @@
             ]
           },
           {
-            "index": "383",
+            "index": "384",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 8490,
             "original_price": null,
@@ -26242,7 +26271,7 @@
             ]
           },
           {
-            "index": "384",
+            "index": "385",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 8690,
             "original_price": null,
@@ -26267,7 +26296,7 @@
             ]
           },
           {
-            "index": "385",
+            "index": "386",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 8990,
             "original_price": null,
@@ -26292,7 +26321,7 @@
             ]
           },
           {
-            "index": "386",
+            "index": "387",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 11490,
             "original_price": null,
@@ -26317,7 +26346,7 @@
             ]
           },
           {
-            "index": "387",
+            "index": "388",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 11990,
             "original_price": null,
@@ -26342,7 +26371,7 @@
             ]
           },
           {
-            "index": "388",
+            "index": "389",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 11990,
             "original_price": null,
@@ -26367,7 +26396,7 @@
             ]
           },
           {
-            "index": "389",
+            "index": "390",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 14990,
             "original_price": null,
@@ -26392,7 +26421,7 @@
             ]
           },
           {
-            "index": "390",
+            "index": "391",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 15990,
             "original_price": null,
@@ -26417,7 +26446,7 @@
             ]
           },
           {
-            "index": "391",
+            "index": "392",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 18900,
             "original_price": null,
@@ -26442,7 +26471,7 @@
             ]
           },
           {
-            "index": "392",
+            "index": "393",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 19990,
             "original_price": null,
@@ -26466,7 +26495,7 @@
             ]
           },
           {
-            "index": "393",
+            "index": "394",
             "group": "❤ [活動8/31前]買微星Z890/X870(E)主機板登錄送威力導演&LUCKY足球公仔(詳情見官網)",
             "price": 38990,
             "original_price": null,
@@ -26491,7 +26520,7 @@
             ]
           },
           {
-            "index": "396",
+            "index": "397",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 5790,
             "original_price": null,
@@ -26516,7 +26545,7 @@
             ]
           },
           {
-            "index": "397",
+            "index": "398",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 5990,
             "original_price": null,
@@ -26541,7 +26570,7 @@
             ]
           },
           {
-            "index": "398",
+            "index": "399",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 6990,
             "original_price": null,
@@ -26566,7 +26595,7 @@
             ]
           },
           {
-            "index": "399",
+            "index": "400",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 7190,
             "original_price": null,
@@ -26591,7 +26620,7 @@
             ]
           },
           {
-            "index": "400",
+            "index": "401",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 9490,
             "original_price": null,
@@ -26616,7 +26645,7 @@
             ]
           },
           {
-            "index": "401",
+            "index": "402",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 9990,
             "original_price": null,
@@ -26641,7 +26670,7 @@
             ]
           },
           {
-            "index": "402",
+            "index": "403",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 11990,
             "original_price": null,
@@ -26666,7 +26695,7 @@
             ]
           },
           {
-            "index": "403",
+            "index": "404",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 12990,
             "original_price": null,
@@ -26690,7 +26719,7 @@
             ]
           },
           {
-            "index": "404",
+            "index": "405",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 14990,
             "original_price": null,
@@ -26715,7 +26744,7 @@
             ]
           },
           {
-            "index": "405",
+            "index": "406",
             "group": "❤ [活動]7/31前買 華擎 X870主機板 送 華擎 配件拉鍊收納包，送完為止",
             "price": 18990,
             "original_price": null,
@@ -26745,7 +26774,7 @@
         "name": "AMD B850 工作站級 (AM5腳位/DDR5)",
         "products": [
           {
-            "index": "407",
+            "index": "408",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 12990,
             "original_price": null,
@@ -26769,7 +26798,7 @@
             ]
           },
           {
-            "index": "408",
+            "index": "409",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 12990,
             "original_price": null,
@@ -26799,7 +26828,7 @@
         "name": "AMD WRX80 / Socket sWRX8(不含顯示)",
         "products": [
           {
-            "index": "410",
+            "index": "411",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 19990,
             "original_price": null,
@@ -26829,7 +26858,7 @@
         "name": "AMD TRX50 / Socket sTR5",
         "products": [
           {
-            "index": "412",
+            "index": "413",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 23990,
             "original_price": null,
@@ -26854,7 +26883,7 @@
             ]
           },
           {
-            "index": "413",
+            "index": "414",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 25990,
             "original_price": null,
@@ -26879,7 +26908,7 @@
             ]
           },
           {
-            "index": "414",
+            "index": "415",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 29990,
             "original_price": null,
@@ -26904,7 +26933,7 @@
             ]
           },
           {
-            "index": "415",
+            "index": "416",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 22990,
             "original_price": null,
@@ -26934,7 +26963,7 @@
         "name": "AMD WRX90 / Socket sTR5",
         "products": [
           {
-            "index": "417",
+            "index": "418",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 39990,
             "original_price": null,
@@ -26959,7 +26988,7 @@
             ]
           },
           {
-            "index": "418",
+            "index": "419",
             "group": "❤ [NO.1]買華碩主機板並完成延長保固登錄.再享 [1年內損壞免費換新/雙向免費到府]服務",
             "price": 38990,
             "original_price": null,
@@ -121838,7 +121867,7 @@
   {
     "category_id": "20",
     "category_name": "網路NAS|網路IPCAM",
-    "summary": "共有商品 94 樣，熱賣 6，圖片 93，討論 86，價格異動 5，限時下殺▼2",
+    "summary": "共有商品 94 樣，熱賣 6，圖片 93，討論 86，價格異動 8，限時下殺▼2",
     "subcategories": [
       {
         "name": "室內 網路攝影機 (IP Camera) 都有支援雙向語音",
@@ -122795,14 +122824,15 @@
             "index": "60",
             "group": "❤ TP-LINK Tapo C410 Tapo 411 真無線 免牽線 充滿可180天續航",
             "price": 8999,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 8999,
+            "discount_amount": 1400,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change"
             ],
             "raw_text": "QNAP TS-233【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/2GB/1Gb*1/U3*1/U2*2",
-            "full_text": "QNAP TS-233【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/2GB/1Gb*1/U3*1/U2*2, $8999 ◆ ★",
+            "full_text": "QNAP TS-233【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/2GB/1Gb*1/U3*1/U2*2, $8999↘$7599 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/qnapts233.jpg",
             "product_url": "https://www.qnap.com/zh-tw/product/ts-233/specs/hardware?gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2oUS3BA40ae5wz39VJrs5InVhMvJAmB50DrrsktmXAmwvZhgDDzZ6MaAoesEALw_wcB",
             "details": []
@@ -122811,14 +122841,15 @@
             "index": "61",
             "group": "❤ TP-LINK Tapo C410 Tapo 411 真無線 免牽線 充滿可180天續航",
             "price": 11299,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 11299,
+            "discount_amount": 1356,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change"
             ],
             "raw_text": "QNAP TS-216G【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/4GB/2.5Gb*1/1Gb*1",
-            "full_text": "QNAP TS-216G【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/4GB/2.5Gb*1/1Gb*1, $11299 ◆ ★",
+            "full_text": "QNAP TS-216G【2Bay】ARM 四核心 Cortex-A55(2.0GHz)/4GB/2.5Gb*1/1Gb*1, $11299↘$9943 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/qnapts216g.jpg",
             "product_url": "https://www.qnap.com/zh-hk/product/ts-216g?gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2otqevPQgAb9FBmvMnCc_xxZ5WSGvh_yXb-H0j_iYoes3BdnzpjONYaAjfyEALw_wcB",
             "details": []
@@ -122891,14 +122922,15 @@
             "index": "66",
             "group": "❤ TP-LINK Tapo C410 Tapo 411 真無線 免牽線 充滿可180天續航",
             "price": 38000,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 38000,
+            "discount_amount": 1425,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change"
             ],
             "raw_text": "QNAP TS-673A-8G【6Bay】AMD V1500B四核心(2.2GHz)/8GB//2.5Gb*2/PCIe*2",
-            "full_text": "QNAP TS-673A-8G【6Bay】AMD V1500B四核心(2.2GHz)/8GB//2.5Gb*2/PCIe*2, $38000 ◆ ★",
+            "full_text": "QNAP TS-673A-8G【6Bay】AMD V1500B四核心(2.2GHz)/8GB//2.5Gb*2/PCIe*2, $38000↘$36575 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/qnapts673a8g.jpg",
             "product_url": "https://www.qnap.com/zh-tw/product/ts-673a",
             "details": []
