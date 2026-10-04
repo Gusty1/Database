@@ -2,7 +2,7 @@
   {
     "category_id": "1",
     "category_name": "品牌小主機、AIO|VR虛擬",
-    "summary": "共有商品 172 樣，熱賣 23，圖片 160，討論 135，價格異動 5，限時下殺▼12",
+    "summary": "共有商品 172 樣，熱賣 23，圖片 160，討論 135，價格異動 6，限時下殺▼12",
     "subcategories": [
       {
         "name": "NVIDIA DGX Spark",
@@ -3666,16 +3666,17 @@
           {
             "index": "221",
             "group": "❤ ASUS AIO-無觸控",
-            "price": 28990,
-            "original_price": null,
-            "discount_amount": null,
+            "price": 29990,
+            "original_price": 29990,
+            "discount_amount": 1000,
             "markers": [
               "discussion",
               "image",
+              "price_change",
               "time_limited"
             ],
             "raw_text": "｛ASUS V440VAK-10UWPC001W｝23.8吋 / Core 3 100U / 16G / 512G / WIN11 / 白▼下殺到 10/31 23:59",
-            "full_text": "｛ASUS V440VAK-10UWPC001W｝23.8吋 / Core 3 100U / 16G / 512G / WIN11 / 白▼下殺到 10/31 23:59, $28990 ◆ ★",
+            "full_text": "｛ASUS V440VAK-10UWPC001W｝23.8吋 / Core 3 100U / 16G / 512G / WIN11 / 白▼下殺到 10/31 23:59, $29990↘$28990 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/1/asusv400aio.jpg",
             "product_url": "https://www.asus.com/tw/displays-desktops/all-in-one-pcs/asus-aio/asus-v400-aio-v440va/",
             "details": [
@@ -4181,7 +4182,7 @@
   {
     "category_id": "2",
     "category_name": "筆電|平板|穿戴配件",
-    "summary": "共有商品 352 樣，熱賣 36，圖片 343，討論 293，價格異動 28，限時下殺▼28",
+    "summary": "共有商品 353 樣，熱賣 36，圖片 344，討論 294，價格異動 28，限時下殺▼28",
     "subcategories": [
       {
         "name": "PAD 智慧平板",
@@ -5185,7 +5186,7 @@
             "img_url": "https://www.coolpc.com.tw/eval/2/coolpcnew.jpg",
             "product_url": "https://www.acer.com/tw-zh/laptops/aspire/aspire-lite/pdp/NX.DQETA.001",
             "details": [
-              "尺寸：16\" IPS面板 (1920x1200)",
+              "尺寸：16\" IPS面板 (1920x1200)刷新120Hz",
               "CPU：Intel Ultra 5 125H (14C18T / 1.2 G↗4.5 G / 18M)",
               "RAM：內建16G DDR5 不可擴充",
               "SSD：單槽/512G M.2",
@@ -10633,6 +10634,31 @@
           {
             "index": "286",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
+            "price": 64900,
+            "original_price": null,
+            "discount_amount": null,
+            "markers": [
+              "discussion",
+              "image"
+            ],
+            "raw_text": "微星 Prestige 14 Flip AI+ Ultra X7-358H/32G/1T/14吋/WIN11 Pro 黑｛D3MTG-033TW｝",
+            "full_text": "微星 Prestige 14 Flip AI+ Ultra X7-358H/32G/1T/14吋/WIN11 Pro 黑｛D3MTG-033TW｝, $64900 ◆ ★",
+            "img_url": "https://www.coolpc.com.tw/eval/2/msiprestige14flipai.jpg",
+            "product_url": "https://tw.msi.com/Business-Productivity/Prestige-14-Flip-AI-Plus-D3MX",
+            "details": [
+              "尺寸：14\" OLED面板 (1920x1200) 翻轉觸控",
+              "CPU：Intel Ultra X7 358H (2.2 G↗4.8 G / 12M)",
+              "RAM：內建 32G DDR5 不可擴充",
+              "SSD：單槽/1T M.2",
+              "內顯：Intel Arc Graphics",
+              "介面：TB4(2C)+U3.2 Gen2(2A) / HDMI",
+              "重量：1.37Kg / 觸控筆 / RJ45Adapter / 背光鍵盤 / 附包鼠",
+              "OS：Windows 11 Pro / 二年原廠到府收送"
+            ]
+          },
+          {
+            "index": "287",
+            "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 74900,
             "original_price": null,
             "discount_amount": null,
@@ -10661,7 +10687,7 @@
         "name": "15吋 微星 - 輕薄商務系列 Modern / Venture Pro",
         "products": [
           {
-            "index": "287",
+            "index": "288",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 21900,
             "original_price": 21900,
@@ -10688,7 +10714,7 @@
             ]
           },
           {
-            "index": "288",
+            "index": "289",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 31900,
             "original_price": null,
@@ -10713,7 +10739,7 @@
             ]
           },
           {
-            "index": "289",
+            "index": "290",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 33900,
             "original_price": null,
@@ -10738,7 +10764,7 @@
             ]
           },
           {
-            "index": "290",
+            "index": "291",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 52900,
             "original_price": null,
@@ -10768,7 +10794,7 @@
         "name": "16吋 微星 - 輕薄商務系列 Prestige / Modern S",
         "products": [
           {
-            "index": "291",
+            "index": "292",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 40900,
             "original_price": null,
@@ -10793,7 +10819,7 @@
             ]
           },
           {
-            "index": "292",
+            "index": "293",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 69900,
             "original_price": 69900,
@@ -10820,7 +10846,7 @@
             ]
           },
           {
-            "index": "293",
+            "index": "294",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 74900,
             "original_price": null,
@@ -10850,7 +10876,7 @@
         "name": "15吋 微星 - 炫彩戰鬥系列 Katana / Cyborg MAX",
         "products": [
           {
-            "index": "294",
+            "index": "295",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 54900,
             "original_price": 54900,
@@ -10877,7 +10903,7 @@
             ]
           },
           {
-            "index": "295",
+            "index": "296",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 59900,
             "original_price": 59900,
@@ -10904,7 +10930,7 @@
             ]
           },
           {
-            "index": "296",
+            "index": "297",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 32900,
             "original_price": null,
@@ -10929,7 +10955,7 @@
             ]
           },
           {
-            "index": "297",
+            "index": "298",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 34900,
             "original_price": 34900,
@@ -10956,7 +10982,7 @@
             ]
           },
           {
-            "index": "298",
+            "index": "299",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 39900,
             "original_price": 39900,
@@ -10983,7 +11009,7 @@
             ]
           },
           {
-            "index": "299",
+            "index": "300",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 59900,
             "original_price": null,
@@ -11008,7 +11034,7 @@
             ]
           },
           {
-            "index": "300",
+            "index": "301",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 34900,
             "original_price": 34900,
@@ -11035,7 +11061,7 @@
             ]
           },
           {
-            "index": "301",
+            "index": "302",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 35900,
             "original_price": 35900,
@@ -11062,7 +11088,7 @@
             ]
           },
           {
-            "index": "302",
+            "index": "303",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 46900,
             "original_price": 46900,
@@ -11089,7 +11115,7 @@
             ]
           },
           {
-            "index": "303",
+            "index": "304",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 33900,
             "original_price": null,
@@ -11115,7 +11141,7 @@
             ]
           },
           {
-            "index": "304",
+            "index": "305",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 39999,
             "original_price": null,
@@ -11140,7 +11166,7 @@
             ]
           },
           {
-            "index": "305",
+            "index": "306",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 44900,
             "original_price": 44900,
@@ -11167,7 +11193,7 @@
             ]
           },
           {
-            "index": "306",
+            "index": "307",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 49900,
             "original_price": 49900,
@@ -11194,7 +11220,7 @@
             ]
           },
           {
-            "index": "307",
+            "index": "308",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 52900,
             "original_price": 52900,
@@ -11228,7 +11254,7 @@
         "name": "16吋 微星 - 極致龍魂系列 Pulse / Crosshair MAX / Stealth / Raider MAX",
         "products": [
           {
-            "index": "308",
+            "index": "309",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 53900,
             "original_price": null,
@@ -11254,7 +11280,7 @@
             ]
           },
           {
-            "index": "309",
+            "index": "310",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 65900,
             "original_price": null,
@@ -11279,7 +11305,7 @@
             ]
           },
           {
-            "index": "310",
+            "index": "311",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 59900,
             "original_price": 59900,
@@ -11306,7 +11332,7 @@
             ]
           },
           {
-            "index": "311",
+            "index": "312",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 64900,
             "original_price": 64900,
@@ -11333,7 +11359,7 @@
             ]
           },
           {
-            "index": "312",
+            "index": "313",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 67900,
             "original_price": 67900,
@@ -11360,7 +11386,7 @@
             ]
           },
           {
-            "index": "313",
+            "index": "314",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 62900,
             "original_price": null,
@@ -11386,7 +11412,7 @@
             ]
           },
           {
-            "index": "314",
+            "index": "315",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 74900,
             "original_price": null,
@@ -11411,7 +11437,7 @@
             ]
           },
           {
-            "index": "315",
+            "index": "316",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 64900,
             "original_price": null,
@@ -11436,7 +11462,7 @@
             ]
           },
           {
-            "index": "316",
+            "index": "317",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 85490,
             "original_price": null,
@@ -11461,7 +11487,7 @@
             ]
           },
           {
-            "index": "317",
+            "index": "318",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 129000,
             "original_price": null,
@@ -11487,7 +11513,7 @@
             ]
           },
           {
-            "index": "318",
+            "index": "319",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 119000,
             "original_price": null,
@@ -11512,7 +11538,7 @@
             ]
           },
           {
-            "index": "319",
+            "index": "320",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 144900,
             "original_price": null,
@@ -11538,7 +11564,7 @@
             ]
           },
           {
-            "index": "320",
+            "index": "321",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 159900,
             "original_price": null,
@@ -11569,7 +11595,7 @@
         "name": "17 吋 微星 - 巔峰效能系列 Katana / Cyborg / Crosshair",
         "products": [
           {
-            "index": "321",
+            "index": "322",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 59900,
             "original_price": 59900,
@@ -11596,7 +11622,7 @@
             ]
           },
           {
-            "index": "322",
+            "index": "323",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 43900,
             "original_price": null,
@@ -11621,7 +11647,7 @@
             ]
           },
           {
-            "index": "323",
+            "index": "324",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 46900,
             "original_price": null,
@@ -11646,7 +11672,7 @@
             ]
           },
           {
-            "index": "324",
+            "index": "325",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 62900,
             "original_price": 62900,
@@ -11677,7 +11703,7 @@
         "name": "18 吋 微星 - 極致炫彩系列 Vector/Crosshair/Stealth/Raider/Titan 電競霸主",
         "products": [
           {
-            "index": "325",
+            "index": "326",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 67900,
             "original_price": 67900,
@@ -11704,7 +11730,7 @@
             ]
           },
           {
-            "index": "326",
+            "index": "327",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 168000,
             "original_price": null,
@@ -11730,7 +11756,7 @@
             ]
           },
           {
-            "index": "327",
+            "index": "328",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 199900,
             "original_price": null,
@@ -11756,7 +11782,7 @@
             ]
           },
           {
-            "index": "328",
+            "index": "329",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 229900,
             "original_price": null,
@@ -11786,7 +11812,7 @@
         "name": "16吋 LG Gram -榮獲金氏世界紀錄最輕16吋筆電",
         "products": [
           {
-            "index": "329",
+            "index": "330",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 36300,
             "original_price": null,
@@ -11812,7 +11838,7 @@
             ]
           },
           {
-            "index": "330",
+            "index": "331",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 36300,
             "original_price": null,
@@ -11843,7 +11869,7 @@
         "name": "16 吋 LG Gram Pro 最新的處理器，領航著速度的先驅",
         "products": [
           {
-            "index": "331",
+            "index": "332",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 102500,
             "original_price": null,
@@ -11868,7 +11894,7 @@
             ]
           },
           {
-            "index": "332",
+            "index": "333",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 111500,
             "original_price": null,
@@ -11893,7 +11919,7 @@
             ]
           },
           {
-            "index": "333",
+            "index": "334",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 111500,
             "original_price": null,
@@ -11923,7 +11949,7 @@
         "name": "17 吋 LG Gram 高科技奈米碳鎂通過美國軍規測試",
         "products": [
           {
-            "index": "334",
+            "index": "335",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 106500,
             "original_price": null,
@@ -11953,7 +11979,7 @@
         "name": "14 吋 HP OmniBook 3",
         "products": [
           {
-            "index": "335",
+            "index": "336",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 39900,
             "original_price": null,
@@ -11983,7 +12009,7 @@
         "name": "16 吋 HP OmniBook 3",
         "products": [
           {
-            "index": "336",
+            "index": "337",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 34900,
             "original_price": null,
@@ -12013,7 +12039,7 @@
         "name": "17 吋 HP OmniBook 3",
         "products": [
           {
-            "index": "337",
+            "index": "338",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 36900,
             "original_price": null,
@@ -12043,7 +12069,7 @@
         "name": "14 吋 HP OmniBook 5 Flip 翻轉觸控筆電",
         "products": [
           {
-            "index": "338",
+            "index": "339",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 32900,
             "original_price": null,
@@ -12069,7 +12095,7 @@
             ]
           },
           {
-            "index": "339",
+            "index": "340",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 32900,
             "original_price": null,
@@ -12095,7 +12121,7 @@
             ]
           },
           {
-            "index": "340",
+            "index": "341",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 37900,
             "original_price": null,
@@ -12120,7 +12146,7 @@
             ]
           },
           {
-            "index": "341",
+            "index": "342",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 41900,
             "original_price": null,
@@ -12150,7 +12176,7 @@
         "name": "13 吋 HP OmniBook 7系列",
         "products": [
           {
-            "index": "342",
+            "index": "343",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 33900,
             "original_price": null,
@@ -12180,7 +12206,7 @@
         "name": "14 吋 HP OmniBook X FlipNGAI 翻轉觸控系列",
         "products": [
           {
-            "index": "344",
+            "index": "345",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 54900,
             "original_price": null,
@@ -12209,7 +12235,7 @@
         "name": "14 吋 HP OmniBook UltraNGAI 觸控系列",
         "products": [
           {
-            "index": "345",
+            "index": "346",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 74900,
             "original_price": null,
@@ -12239,7 +12265,7 @@
         "name": "15吋 HP HyperX OMEN 潮競系列 /Victus 光影系列",
         "products": [
           {
-            "index": "346",
+            "index": "347",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 35999,
             "original_price": null,
@@ -12264,7 +12290,7 @@
             ]
           },
           {
-            "index": "347",
+            "index": "348",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 61888,
             "original_price": null,
@@ -12289,7 +12315,7 @@
             ]
           },
           {
-            "index": "349",
+            "index": "350",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 72900,
             "original_price": null,
@@ -12313,7 +12339,7 @@
             ]
           },
           {
-            "index": "350",
+            "index": "351",
             "group": "❤ Genuine捷元全系列 保固內到府收送",
             "price": 79900,
             "original_price": null,
@@ -12342,7 +12368,7 @@
         "name": "14 吋 HP惠普 ZBook Firefly 14 系列〈創意行動達人〉",
         "products": [
           {
-            "index": "352",
+            "index": "353",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 35900,
             "original_price": null,
@@ -12367,7 +12393,7 @@
             ]
           },
           {
-            "index": "353",
+            "index": "354",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 36899,
             "original_price": null,
@@ -12385,7 +12411,7 @@
         "name": "16 吋 HP惠普 ZBook 8 G1i/G1a 14 系列",
         "products": [
           {
-            "index": "355",
+            "index": "356",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 57900,
             "original_price": null,
@@ -12415,7 +12441,7 @@
         "name": "筆電周邊",
         "products": [
           {
-            "index": "357",
+            "index": "358",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 390,
             "original_price": null,
@@ -12440,7 +12466,7 @@
         "name": "快速充電器",
         "products": [
           {
-            "index": "358",
+            "index": "359",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 3390,
             "original_price": null,
@@ -12463,7 +12489,7 @@
             ]
           },
           {
-            "index": "359",
+            "index": "360",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2190,
             "original_price": null,
@@ -12486,7 +12512,7 @@
             ]
           },
           {
-            "index": "360",
+            "index": "361",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 299,
             "original_price": null,
@@ -12507,7 +12533,7 @@
             ]
           },
           {
-            "index": "361",
+            "index": "362",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 990,
             "original_price": null,
@@ -12530,7 +12556,7 @@
             ]
           },
           {
-            "index": "363",
+            "index": "364",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1122,
             "original_price": null,
@@ -12543,7 +12569,7 @@
             "details": null
           },
           {
-            "index": "364",
+            "index": "365",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 399,
             "original_price": null,
@@ -12565,7 +12591,7 @@
             ]
           },
           {
-            "index": "365",
+            "index": "366",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -12587,7 +12613,7 @@
             ]
           },
           {
-            "index": "366",
+            "index": "367",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 549,
             "original_price": null,
@@ -12610,7 +12636,7 @@
             ]
           },
           {
-            "index": "367",
+            "index": "368",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 699,
             "original_price": null,
@@ -12632,7 +12658,7 @@
             ]
           },
           {
-            "index": "368",
+            "index": "369",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 899,
             "original_price": null,
@@ -12655,7 +12681,7 @@
             ]
           },
           {
-            "index": "369",
+            "index": "370",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1398,
             "original_price": 1398,
@@ -12680,7 +12706,7 @@
             ]
           },
           {
-            "index": "370",
+            "index": "371",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1499,
             "original_price": null,
@@ -12703,7 +12729,7 @@
             ]
           },
           {
-            "index": "371",
+            "index": "372",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1699,
             "original_price": null,
@@ -12726,7 +12752,7 @@
             ]
           },
           {
-            "index": "372",
+            "index": "373",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2499,
             "original_price": null,
@@ -12748,7 +12774,7 @@
             ]
           },
           {
-            "index": "373",
+            "index": "374",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1299,
             "original_price": null,
@@ -12771,7 +12797,7 @@
             ]
           },
           {
-            "index": "374",
+            "index": "375",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1848,
             "original_price": null,
@@ -12794,7 +12820,7 @@
             ]
           },
           {
-            "index": "375",
+            "index": "376",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 2598,
             "original_price": null,
@@ -12817,7 +12843,7 @@
             ]
           },
           {
-            "index": "376",
+            "index": "377",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1399,
             "original_price": null,
@@ -12840,7 +12866,7 @@
             ]
           },
           {
-            "index": "377",
+            "index": "378",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -12867,7 +12893,7 @@
         "name": "行動電源",
         "products": [
           {
-            "index": "379",
+            "index": "380",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 429,
             "original_price": null,
@@ -12891,7 +12917,7 @@
             ]
           },
           {
-            "index": "380",
+            "index": "381",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -12914,7 +12940,7 @@
             ]
           },
           {
-            "index": "381",
+            "index": "382",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 999,
             "original_price": null,
@@ -12938,7 +12964,7 @@
             ]
           },
           {
-            "index": "382",
+            "index": "383",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1122,
             "original_price": null,
@@ -12951,7 +12977,7 @@
             "details": null
           },
           {
-            "index": "383",
+            "index": "384",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": null,
@@ -12973,7 +12999,7 @@
             ]
           },
           {
-            "index": "384",
+            "index": "385",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": null,
@@ -12995,7 +13021,7 @@
             ]
           },
           {
-            "index": "385",
+            "index": "386",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": null,
@@ -13017,7 +13043,7 @@
             ]
           },
           {
-            "index": "386",
+            "index": "387",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 599,
             "original_price": 599,
@@ -13041,7 +13067,7 @@
             ]
           },
           {
-            "index": "387",
+            "index": "388",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": null,
@@ -13063,7 +13089,7 @@
             ]
           },
           {
-            "index": "388",
+            "index": "389",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1198,
             "original_price": null,
@@ -13085,7 +13111,7 @@
             ]
           },
           {
-            "index": "389",
+            "index": "390",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 499,
             "original_price": null,
@@ -13109,7 +13135,7 @@
             ]
           },
           {
-            "index": "390",
+            "index": "391",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 659,
             "original_price": null,
@@ -13133,7 +13159,7 @@
             ]
           },
           {
-            "index": "391",
+            "index": "392",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1318,
             "original_price": null,
@@ -13157,7 +13183,7 @@
             ]
           },
           {
-            "index": "392",
+            "index": "393",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 399,
             "original_price": null,
@@ -13179,7 +13205,7 @@
             ]
           },
           {
-            "index": "393",
+            "index": "394",
             "group": "❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。",
             "price": 1299,
             "original_price": null,
@@ -22471,7 +22497,7 @@
           {
             "index": "202",
             "group": "❤ [活動] 12/31前買 Z890主板，登錄兌換遊戲三選一(垂死之光)(文明帝國 VII)(刺客任務 3)",
-            "price": 3090,
+            "price": 2990,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -22479,7 +22505,7 @@
               "image"
             ],
             "raw_text": "｛微星 PRO B550M-P WIFI6E｝M-ATX/LAN 1G+無線/註四年/4DIMM/4+2+1相",
-            "full_text": "｛微星 PRO B550M-P WIFI6E｝M-ATX/LAN 1G+無線/註四年/4DIMM/4+2+1相, $3090 ◆ ★",
+            "full_text": "｛微星 PRO B550M-P WIFI6E｝M-ATX/LAN 1G+無線/註四年/4DIMM/4+2+1相, $2990 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/5/msib550mpwifi6e.jpg",
             "product_url": "https://www.msi.com/Motherboard/PRO-B550M-P-WIFI6E/Overview",
             "details": [
@@ -23885,7 +23911,7 @@
           {
             "index": "258",
             "group": "❤ [活動] 12/31前買 Z890主板，登錄兌換遊戲三選一(垂死之光)(文明帝國 VII)(刺客任務 3)",
-            "price": 8290,
+            "price": 7990,
             "original_price": null,
             "discount_amount": null,
             "markers": [
@@ -23894,7 +23920,7 @@
               "hot"
             ],
             "raw_text": "｛技嘉 B850 AORUS STEALTH ICE｝背插/ATX/5G+Wi-Fi7/白/註五年/白/14+2+2相",
-            "full_text": "｛技嘉 B850 AORUS STEALTH ICE｝背插/ATX/5G+Wi-Fi7/白/註五年/白/14+2+2相, $8290 ◆ ★ 熱賣 ↓任搭500↓",
+            "full_text": "｛技嘉 B850 AORUS STEALTH ICE｝背插/ATX/5G+Wi-Fi7/白/註五年/白/14+2+2相, $7990 ◆ ★ 熱賣 ↓任搭200↓",
             "img_url": "https://www.coolpc.com.tw/eval/5/gigab850aorusstealthice.jpg",
             "product_url": "https://www.gigabyte.com/tw/Motherboard/B850-AORUS-STEALTH-ICE#kf",
             "details": [
@@ -33735,7 +33761,7 @@
   {
     "category_id": "9",
     "category_name": "隨身碟|隨身硬碟|記憶卡",
-    "summary": "共有商品 194 樣，熱賣 34，圖片 194，討論 184，價格異動 4",
+    "summary": "共有商品 194 樣，熱賣 33，圖片 194，討論 184，價格異動 4",
     "subcategories": [
       {
         "name": "其他",
@@ -34594,6 +34620,22 @@
           {
             "index": "52",
             "group": null,
+            "price": 5099,
+            "original_price": null,
+            "discount_amount": null,
+            "markers": [
+              "discussion",
+              "image"
+            ],
+            "raw_text": "金士頓 Canvas Go 512G micro SDXC / R:200 W:160 / 終保 / 附轉卡｛SDCG4/512GB｝",
+            "full_text": "金士頓 Canvas Go 512G micro SDXC / R:200 W:160 / 終保 / 附轉卡｛SDCG4/512GB｝, $5099 ◆ ★",
+            "img_url": "https://www.coolpc.com.tw/eval/9/kingstoncanvasgo512.jpg",
+            "product_url": "https://www.kingston.com/tw/memory-cards/canvas-go-plus-microsd-card-sdcg4?capacity=512gb&adapter=sd%20adapter",
+            "details": []
+          },
+          {
+            "index": "53",
+            "group": null,
             "price": 305,
             "original_price": null,
             "discount_amount": null,
@@ -34608,7 +34650,7 @@
             "details": []
           },
           {
-            "index": "53",
+            "index": "54",
             "group": null,
             "price": 389,
             "original_price": null,
@@ -34624,7 +34666,7 @@
             "details": []
           },
           {
-            "index": "54",
+            "index": "55",
             "group": null,
             "price": 589,
             "original_price": null,
@@ -34640,7 +34682,7 @@
             "details": []
           },
           {
-            "index": "55",
+            "index": "56",
             "group": null,
             "price": 1088,
             "original_price": null,
@@ -34656,7 +34698,7 @@
             "details": []
           },
           {
-            "index": "57",
+            "index": "58",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 799,
             "original_price": null,
@@ -34672,7 +34714,7 @@
             "details": []
           },
           {
-            "index": "58",
+            "index": "59",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 1499,
             "original_price": null,
@@ -34688,7 +34730,7 @@
             "details": []
           },
           {
-            "index": "59",
+            "index": "60",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 2099,
             "original_price": null,
@@ -34704,7 +34746,7 @@
             "details": []
           },
           {
-            "index": "60",
+            "index": "61",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 3999,
             "original_price": null,
@@ -34720,7 +34762,7 @@
             "details": []
           },
           {
-            "index": "61",
+            "index": "62",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 599,
             "original_price": null,
@@ -34736,7 +34778,7 @@
             "details": []
           },
           {
-            "index": "62",
+            "index": "63",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 680,
             "original_price": null,
@@ -34752,7 +34794,7 @@
             "details": []
           },
           {
-            "index": "63",
+            "index": "64",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 489,
             "original_price": null,
@@ -34768,7 +34810,7 @@
             "details": []
           },
           {
-            "index": "64",
+            "index": "65",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 899,
             "original_price": null,
@@ -34784,7 +34826,7 @@
             "details": []
           },
           {
-            "index": "65",
+            "index": "66",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 1579,
             "original_price": null,
@@ -34800,7 +34842,7 @@
             "details": []
           },
           {
-            "index": "66",
+            "index": "67",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 799,
             "original_price": null,
@@ -34816,7 +34858,7 @@
             "details": []
           },
           {
-            "index": "67",
+            "index": "68",
             "group": "❤ 威剛 High Endurance適用監控 (IP/家庭/網路) 攝影機、行車紀錄器等連續集中寫入裝置",
             "price": 1349,
             "original_price": null,
@@ -34832,7 +34874,7 @@
             "details": []
           },
           {
-            "index": "69",
+            "index": "70",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 258,
             "original_price": null,
@@ -34848,7 +34890,7 @@
             "details": []
           },
           {
-            "index": "70",
+            "index": "71",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 358,
             "original_price": null,
@@ -34864,7 +34906,7 @@
             "details": []
           },
           {
-            "index": "71",
+            "index": "72",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 578,
             "original_price": null,
@@ -34881,7 +34923,7 @@
             "details": []
           },
           {
-            "index": "72",
+            "index": "73",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 1058,
             "original_price": null,
@@ -34897,7 +34939,7 @@
             "details": []
           },
           {
-            "index": "73",
+            "index": "74",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 2288,
             "original_price": null,
@@ -34913,7 +34955,7 @@
             "details": []
           },
           {
-            "index": "74",
+            "index": "75",
             "group": "❤ GIGASTONE記憶卡台灣製造，享全球保固",
             "price": 4988,
             "original_price": null,
@@ -34930,7 +34972,7 @@
             "details": []
           },
           {
-            "index": "76",
+            "index": "77",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 498,
             "original_price": null,
@@ -34949,7 +34991,7 @@
             ]
           },
           {
-            "index": "77",
+            "index": "78",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 898,
             "original_price": null,
@@ -34968,7 +35010,7 @@
             ]
           },
           {
-            "index": "78",
+            "index": "79",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 1638,
             "original_price": null,
@@ -34987,7 +35029,7 @@
             ]
           },
           {
-            "index": "79",
+            "index": "80",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 3088,
             "original_price": null,
@@ -35006,7 +35048,7 @@
             ]
           },
           {
-            "index": "80",
+            "index": "81",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 5788,
             "original_price": null,
@@ -35030,7 +35072,7 @@
         "name": "MicroSDXC Express 記憶卡(Switch 2專用)",
         "products": [
           {
-            "index": "81",
+            "index": "82",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 3550,
             "original_price": null,
@@ -35047,7 +35089,7 @@
             "details": []
           },
           {
-            "index": "82",
+            "index": "83",
             "group": "❤ GIGASTONE Data Recovery系列保固內提供免費資料救援服務",
             "price": 7299,
             "original_price": null,
@@ -35069,7 +35111,7 @@
         "name": "SD 記憶卡",
         "products": [
           {
-            "index": "84",
+            "index": "85",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 399,
             "original_price": null,
@@ -35085,7 +35127,7 @@
             "details": []
           },
           {
-            "index": "85",
+            "index": "86",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 499,
             "original_price": null,
@@ -35101,7 +35143,7 @@
             "details": []
           },
           {
-            "index": "86",
+            "index": "87",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 1399,
             "original_price": null,
@@ -35117,7 +35159,7 @@
             "details": []
           },
           {
-            "index": "87",
+            "index": "88",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 789,
             "original_price": null,
@@ -35133,7 +35175,7 @@
             "details": []
           },
           {
-            "index": "88",
+            "index": "89",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 850,
             "original_price": null,
@@ -35149,7 +35191,7 @@
             "details": []
           },
           {
-            "index": "89",
+            "index": "90",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 2040,
             "original_price": null,
@@ -35170,7 +35212,7 @@
         "name": "CFexpress記憶卡",
         "products": [
           {
-            "index": "90",
+            "index": "91",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9999,
             "original_price": null,
@@ -35186,7 +35228,7 @@
             "details": []
           },
           {
-            "index": "91",
+            "index": "92",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 22999,
             "original_price": null,
@@ -35207,7 +35249,7 @@
         "name": "威剛 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "92",
+            "index": "93",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 2690,
             "original_price": null,
@@ -35224,7 +35266,7 @@
             "details": []
           },
           {
-            "index": "93",
+            "index": "94",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4800,
             "original_price": null,
@@ -35241,7 +35283,7 @@
             "details": []
           },
           {
-            "index": "94",
+            "index": "95",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9200,
             "original_price": null,
@@ -35258,7 +35300,7 @@
             "details": []
           },
           {
-            "index": "95",
+            "index": "96",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4850,
             "original_price": null,
@@ -35273,7 +35315,7 @@
             "details": []
           },
           {
-            "index": "96",
+            "index": "97",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4850,
             "original_price": null,
@@ -35288,7 +35330,7 @@
             "details": []
           },
           {
-            "index": "97",
+            "index": "98",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 2688,
             "original_price": null,
@@ -35304,7 +35346,7 @@
             "details": []
           },
           {
-            "index": "98",
+            "index": "99",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 2688,
             "original_price": null,
@@ -35320,7 +35362,7 @@
             "details": []
           },
           {
-            "index": "99",
+            "index": "100",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4880,
             "original_price": null,
@@ -35336,7 +35378,7 @@
             "details": []
           },
           {
-            "index": "100",
+            "index": "101",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4880,
             "original_price": null,
@@ -35352,7 +35394,7 @@
             "details": []
           },
           {
-            "index": "101",
+            "index": "102",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9400,
             "original_price": null,
@@ -35368,7 +35410,7 @@
             "details": []
           },
           {
-            "index": "102",
+            "index": "103",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9400,
             "original_price": null,
@@ -35384,7 +35426,7 @@
             "details": []
           },
           {
-            "index": "103",
+            "index": "104",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 18500,
             "original_price": null,
@@ -35400,7 +35442,7 @@
             "details": []
           },
           {
-            "index": "104",
+            "index": "105",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 18500,
             "original_price": null,
@@ -35416,7 +35458,7 @@
             "details": []
           },
           {
-            "index": "105",
+            "index": "106",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -35432,7 +35474,7 @@
             "details": []
           },
           {
-            "index": "106",
+            "index": "107",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -35448,7 +35490,7 @@
             "details": []
           },
           {
-            "index": "107",
+            "index": "108",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4888,
             "original_price": null,
@@ -35464,7 +35506,7 @@
             "details": []
           },
           {
-            "index": "108",
+            "index": "109",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 4888,
             "original_price": null,
@@ -35480,7 +35522,7 @@
             "details": []
           },
           {
-            "index": "109",
+            "index": "110",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9600,
             "original_price": null,
@@ -35496,7 +35538,7 @@
             "details": []
           },
           {
-            "index": "110",
+            "index": "111",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 9600,
             "original_price": null,
@@ -35512,7 +35554,7 @@
             "details": []
           },
           {
-            "index": "111",
+            "index": "112",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 19000,
             "original_price": null,
@@ -35528,7 +35570,7 @@
             "details": []
           },
           {
-            "index": "112",
+            "index": "113",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 19000,
             "original_price": null,
@@ -35544,7 +35586,7 @@
             "details": []
           },
           {
-            "index": "113",
+            "index": "114",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 5199,
             "original_price": null,
@@ -35559,7 +35601,7 @@
             "details": []
           },
           {
-            "index": "114",
+            "index": "115",
             "group": "❤ 買威剛記憶卡、隨身碟滿488就送威剛飲料提袋 數量有限 送完為止",
             "price": 5199,
             "original_price": null,
@@ -35579,7 +35621,7 @@
         "name": "金士頓 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "116",
+            "index": "117",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4650,
             "original_price": null,
@@ -35595,7 +35637,7 @@
             "details": []
           },
           {
-            "index": "117",
+            "index": "118",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4650,
             "original_price": null,
@@ -35611,7 +35653,7 @@
             "details": []
           },
           {
-            "index": "118",
+            "index": "119",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 6800,
             "original_price": null,
@@ -35628,7 +35670,7 @@
             "details": []
           },
           {
-            "index": "119",
+            "index": "120",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4450,
             "original_price": null,
@@ -35649,7 +35691,7 @@
         "name": "海盜船 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "120",
+            "index": "121",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4200,
             "original_price": null,
@@ -35665,7 +35707,7 @@
             "details": []
           },
           {
-            "index": "121",
+            "index": "122",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8400,
             "original_price": null,
@@ -35681,7 +35723,7 @@
             "details": []
           },
           {
-            "index": "122",
+            "index": "123",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 14700,
             "original_price": null,
@@ -35697,7 +35739,7 @@
             "details": []
           },
           {
-            "index": "123",
+            "index": "124",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8300,
             "original_price": null,
@@ -35713,7 +35755,7 @@
             "details": []
           },
           {
-            "index": "124",
+            "index": "125",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 12000,
             "original_price": null,
@@ -35729,7 +35771,7 @@
             "details": []
           },
           {
-            "index": "125",
+            "index": "126",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 18500,
             "original_price": null,
@@ -35745,7 +35787,7 @@
             "details": []
           },
           {
-            "index": "126",
+            "index": "127",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8800,
             "original_price": null,
@@ -35761,7 +35803,7 @@
             "details": []
           },
           {
-            "index": "127",
+            "index": "128",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 12500,
             "original_price": null,
@@ -35777,7 +35819,7 @@
             "details": []
           },
           {
-            "index": "128",
+            "index": "129",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 18800,
             "original_price": null,
@@ -35798,7 +35840,7 @@
         "name": "致態 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "129",
+            "index": "130",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4299,
             "original_price": 4299,
@@ -35814,7 +35856,7 @@
             "details": []
           },
           {
-            "index": "130",
+            "index": "131",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4299,
             "original_price": 4299,
@@ -35830,7 +35872,7 @@
             "details": []
           },
           {
-            "index": "131",
+            "index": "132",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8899,
             "original_price": 8899,
@@ -35846,7 +35888,7 @@
             "details": []
           },
           {
-            "index": "132",
+            "index": "133",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8899,
             "original_price": 8899,
@@ -35867,7 +35909,7 @@
         "name": "Micron 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "133",
+            "index": "134",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 3399,
             "original_price": null,
@@ -35883,7 +35925,7 @@
             "details": []
           },
           {
-            "index": "134",
+            "index": "135",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 5999,
             "original_price": null,
@@ -35900,7 +35942,7 @@
             "details": []
           },
           {
-            "index": "135",
+            "index": "136",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 11500,
             "original_price": null,
@@ -35917,7 +35959,7 @@
             "details": []
           },
           {
-            "index": "136",
+            "index": "137",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 4475,
             "original_price": null,
@@ -35933,7 +35975,7 @@
             "details": []
           },
           {
-            "index": "137",
+            "index": "138",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 7888,
             "original_price": null,
@@ -35949,7 +35991,7 @@
             "details": []
           },
           {
-            "index": "138",
+            "index": "139",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 15500,
             "original_price": null,
@@ -35965,7 +36007,7 @@
             "details": []
           },
           {
-            "index": "139",
+            "index": "140",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 22380,
             "original_price": null,
@@ -35981,7 +36023,7 @@
             "details": []
           },
           {
-            "index": "140",
+            "index": "141",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 28800,
             "original_price": null,
@@ -35997,7 +36039,7 @@
             "details": []
           },
           {
-            "index": "141",
+            "index": "142",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 5200,
             "original_price": null,
@@ -36013,7 +36055,7 @@
             "details": []
           },
           {
-            "index": "142",
+            "index": "143",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 8450,
             "original_price": null,
@@ -36029,7 +36071,7 @@
             "details": []
           },
           {
-            "index": "143",
+            "index": "144",
             "group": "❤ 凡購買金士頓 XS1000、XS2000 就送金士頓外接SSD保護套(GRS0101)",
             "price": 17800,
             "original_price": null,
@@ -36050,7 +36092,7 @@
         "name": "Seagate 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "145",
+            "index": "146",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4888,
             "original_price": null,
@@ -36070,7 +36112,7 @@
             ]
           },
           {
-            "index": "146",
+            "index": "147",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4888,
             "original_price": null,
@@ -36095,7 +36137,7 @@
         "name": "三星 Samsung 隨身SSD碟 Type-C介面",
         "products": [
           {
-            "index": "147",
+            "index": "148",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": null,
             "original_price": null,
@@ -36108,7 +36150,7 @@
             "details": null
           },
           {
-            "index": "148",
+            "index": "149",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": null,
             "original_price": null,
@@ -36121,7 +36163,7 @@
             "details": null
           },
           {
-            "index": "149",
+            "index": "150",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": null,
             "original_price": null,
@@ -36134,7 +36176,7 @@
             "details": null
           },
           {
-            "index": "150",
+            "index": "151",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7588,
             "original_price": null,
@@ -36150,7 +36192,7 @@
             "details": []
           },
           {
-            "index": "151",
+            "index": "152",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 6988,
             "original_price": null,
@@ -36167,7 +36209,7 @@
             "details": []
           },
           {
-            "index": "152",
+            "index": "153",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 6988,
             "original_price": null,
@@ -36184,7 +36226,7 @@
             "details": []
           },
           {
-            "index": "153",
+            "index": "154",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 6988,
             "original_price": null,
@@ -36201,7 +36243,7 @@
             "details": []
           },
           {
-            "index": "154",
+            "index": "155",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 11988,
             "original_price": null,
@@ -36217,7 +36259,7 @@
             "details": []
           },
           {
-            "index": "155",
+            "index": "156",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 11988,
             "original_price": null,
@@ -36233,7 +36275,7 @@
             "details": []
           },
           {
-            "index": "156",
+            "index": "157",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 11988,
             "original_price": null,
@@ -36254,7 +36296,7 @@
         "name": "2.5吋 - Toshiba 隨身2.5吋硬碟",
         "products": [
           {
-            "index": "157",
+            "index": "158",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7290,
             "original_price": null,
@@ -36270,7 +36312,7 @@
             "details": []
           },
           {
-            "index": "158",
+            "index": "159",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 3590,
             "original_price": null,
@@ -36286,7 +36328,7 @@
             "details": []
           },
           {
-            "index": "159",
+            "index": "160",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 3590,
             "original_price": null,
@@ -36302,7 +36344,7 @@
             "details": []
           },
           {
-            "index": "160",
+            "index": "161",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 3590,
             "original_price": null,
@@ -36318,7 +36360,7 @@
             "details": []
           },
           {
-            "index": "161",
+            "index": "162",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 3590,
             "original_price": null,
@@ -36334,7 +36376,7 @@
             "details": []
           },
           {
-            "index": "162",
+            "index": "163",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4790,
             "original_price": null,
@@ -36350,7 +36392,7 @@
             "details": []
           },
           {
-            "index": "163",
+            "index": "164",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4790,
             "original_price": null,
@@ -36366,7 +36408,7 @@
             "details": []
           },
           {
-            "index": "164",
+            "index": "165",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4790,
             "original_price": null,
@@ -36382,7 +36424,7 @@
             "details": []
           },
           {
-            "index": "165",
+            "index": "166",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4790,
             "original_price": null,
@@ -36398,7 +36440,7 @@
             "details": []
           },
           {
-            "index": "166",
+            "index": "167",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7390,
             "original_price": null,
@@ -36414,7 +36456,7 @@
             "details": []
           },
           {
-            "index": "167",
+            "index": "168",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7390,
             "original_price": null,
@@ -36430,7 +36472,7 @@
             "details": []
           },
           {
-            "index": "168",
+            "index": "169",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7390,
             "original_price": null,
@@ -36446,7 +36488,7 @@
             "details": []
           },
           {
-            "index": "169",
+            "index": "170",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7390,
             "original_price": null,
@@ -36462,7 +36504,7 @@
             "details": []
           },
           {
-            "index": "170",
+            "index": "171",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 3890,
             "original_price": null,
@@ -36477,7 +36519,7 @@
             "details": []
           },
           {
-            "index": "171",
+            "index": "172",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 4990,
             "original_price": null,
@@ -36493,7 +36535,7 @@
             "details": []
           },
           {
-            "index": "172",
+            "index": "173",
             "group": "❤ 買Seagate OneTouch SSD就送Seagate 外接硬碟保護包",
             "price": 7690,
             "original_price": null,
@@ -36514,7 +36556,7 @@
         "name": "2.5吋 - 威剛 隨身2.5吋硬碟",
         "products": [
           {
-            "index": "174",
+            "index": "175",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 4090,
             "original_price": null,
@@ -36530,7 +36572,7 @@
             "details": []
           },
           {
-            "index": "175",
+            "index": "176",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 4090,
             "original_price": null,
@@ -36546,7 +36588,7 @@
             "details": []
           },
           {
-            "index": "176",
+            "index": "177",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 4090,
             "original_price": null,
@@ -36562,7 +36604,7 @@
             "details": []
           },
           {
-            "index": "177",
+            "index": "178",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 7190,
             "original_price": null,
@@ -36578,7 +36620,7 @@
             "details": []
           },
           {
-            "index": "178",
+            "index": "179",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -36594,7 +36636,7 @@
             "details": []
           },
           {
-            "index": "179",
+            "index": "180",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -36610,7 +36652,7 @@
             "details": []
           },
           {
-            "index": "180",
+            "index": "181",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -36626,7 +36668,7 @@
             "details": []
           },
           {
-            "index": "181",
+            "index": "182",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3090,
             "original_price": null,
@@ -36642,7 +36684,7 @@
             "details": []
           },
           {
-            "index": "182",
+            "index": "183",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3790,
             "original_price": null,
@@ -36658,7 +36700,7 @@
             "details": []
           },
           {
-            "index": "183",
+            "index": "184",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3790,
             "original_price": null,
@@ -36674,7 +36716,7 @@
             "details": []
           },
           {
-            "index": "184",
+            "index": "185",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3790,
             "original_price": null,
@@ -36690,7 +36732,7 @@
             "details": []
           },
           {
-            "index": "185",
+            "index": "186",
             "group": "❤ 買 威剛 隨身2.5吋硬碟 就送XPG飲料提袋 數量有限 送完為止",
             "price": 3790,
             "original_price": null,
@@ -36712,7 +36754,7 @@
         "name": "2.5吋 - Seagate 隨身2.5吋硬碟 (保固內原廠資料救援-請先至官網登錄申請)",
         "products": [
           {
-            "index": "187",
+            "index": "188",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 3990,
             "original_price": null,
@@ -36728,7 +36770,7 @@
             "details": []
           },
           {
-            "index": "188",
+            "index": "189",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 4188,
             "original_price": null,
@@ -36745,7 +36787,7 @@
             "details": []
           },
           {
-            "index": "189",
+            "index": "190",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 4188,
             "original_price": null,
@@ -36761,7 +36803,7 @@
             "details": []
           },
           {
-            "index": "190",
+            "index": "191",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 4188,
             "original_price": null,
@@ -36777,7 +36819,7 @@
             "details": []
           },
           {
-            "index": "191",
+            "index": "192",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 5888,
             "original_price": null,
@@ -36793,7 +36835,7 @@
             "details": []
           },
           {
-            "index": "192",
+            "index": "193",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 5888,
             "original_price": null,
@@ -36809,7 +36851,7 @@
             "details": []
           },
           {
-            "index": "193",
+            "index": "194",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 5888,
             "original_price": null,
@@ -36825,7 +36867,7 @@
             "details": []
           },
           {
-            "index": "194",
+            "index": "195",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 6688,
             "original_price": null,
@@ -36842,7 +36884,7 @@
             "details": []
           },
           {
-            "index": "195",
+            "index": "196",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 6688,
             "original_price": null,
@@ -36859,7 +36901,7 @@
             "details": []
           },
           {
-            "index": "196",
+            "index": "197",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
             "price": 6688,
             "original_price": null,
@@ -36880,23 +36922,6 @@
       {
         "name": "2.5吋 - 創見 隨身2.5吋硬碟",
         "products": [
-          {
-            "index": "197",
-            "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
-            "price": 3350,
-            "original_price": null,
-            "discount_amount": null,
-            "markers": [
-              "discussion",
-              "image",
-              "hot"
-            ],
-            "raw_text": "創見 1TB(鐵灰) 25M3 / Type-A / 軍規 / 單鍵備份 / 3年保｛TS1TSJ25M3S｝",
-            "full_text": "創見 1TB(鐵灰) 25M3 / Type-A / 軍規 / 單鍵備份 / 3年保｛TS1TSJ25M3S｝, $3350 ◆ ★ 熱賣",
-            "img_url": "https://www.coolpc.com.tw/eval/9/tfm3.jpg",
-            "product_url": "https://tw.transcend-info.com/product/external-hard-drive/storejet-25m3",
-            "details": []
-          },
           {
             "index": "198",
             "group": "❤ 買 Seagate One Touch系列外接硬碟 送 原廠硬碟保護包",
@@ -45179,7 +45204,7 @@
   {
     "category_id": "12",
     "category_name": "顯示卡VGA",
-    "summary": "共有商品 225 樣，熱賣 26，圖片 226，討論 198",
+    "summary": "共有商品 223 樣，熱賣 26，圖片 224，討論 198",
     "subcategories": [
       {
         "name": "NVIDIA / AMD 顯示卡周邊配件",
@@ -49142,52 +49167,6 @@
           {
             "index": "170",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
-            "price": 67990,
-            "original_price": null,
-            "discount_amount": null,
-            "markers": [
-              "image"
-            ],
-            "raw_text": "｛華碩 ROG-ASTRAL-RTX5080-O16G-GAMING｝2790MHz/36cm/四風扇/註五年",
-            "full_text": "｛華碩 ROG-ASTRAL-RTX5080-O16G-GAMING｝2790MHz/36cm/四風扇/註五年, $67990 ★ ↓任搭490↓",
-            "img_url": "https://www.coolpc.com.tw/eval/12/asusrogastral5080o16gg.jpg",
-            "product_url": null,
-            "details": [
-              "繪圖核心：RTX 5080 16G(GDDR7)",
-              "核心時脈：2790MHz",
-              "CUDA 數：10752",
-              "輸出介面：2*HDMI(2.1b) / 3*DP(2.1a)",
-              "電源接口：16-pin",
-              "顯卡長度：35.76公分",
-              "商品保固：註冊五年保"
-            ]
-          },
-          {
-            "index": "171",
-            "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
-            "price": 69990,
-            "original_price": null,
-            "discount_amount": null,
-            "markers": [
-              "image"
-            ],
-            "raw_text": "｛華碩 ROG-ASTRAL-RTX5080-O16G-WHITE｝2790MHz/36cm/四風扇/註五年/白",
-            "full_text": "｛華碩 ROG-ASTRAL-RTX5080-O16G-WHITE｝2790MHz/36cm/四風扇/註五年/白, $69990 ★ ↓任搭490↓",
-            "img_url": "https://www.coolpc.com.tw/eval/12/asusrog5080o16gw.jpg",
-            "product_url": null,
-            "details": [
-              "繪圖核心：RTX 5080 16G(GDDR7)",
-              "核心時脈：2790MHz",
-              "CUDA 數：10752",
-              "輸出介面：2*HDMI(2.1b) / 3*DP(2.1a)",
-              "電源接口：16-pin",
-              "顯卡長度：35.76公分",
-              "商品保固：註冊五年保"
-            ]
-          },
-          {
-            "index": "172",
-            "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53990,
             "original_price": null,
             "discount_amount": null,
@@ -49211,7 +49190,7 @@
             ]
           },
           {
-            "index": "173",
+            "index": "171",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53990,
             "original_price": null,
@@ -49236,7 +49215,7 @@
             ]
           },
           {
-            "index": "174",
+            "index": "172",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 54990,
             "original_price": null,
@@ -49262,7 +49241,7 @@
             ]
           },
           {
-            "index": "175",
+            "index": "173",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 55990,
             "original_price": null,
@@ -49287,7 +49266,7 @@
             ]
           },
           {
-            "index": "176",
+            "index": "174",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 61990,
             "original_price": null,
@@ -49312,7 +49291,7 @@
             ]
           },
           {
-            "index": "177",
+            "index": "175",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 63990,
             "original_price": null,
@@ -49337,7 +49316,7 @@
             ]
           },
           {
-            "index": "179",
+            "index": "177",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53990,
             "original_price": null,
@@ -49361,7 +49340,7 @@
             ]
           },
           {
-            "index": "180",
+            "index": "178",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53990,
             "original_price": null,
@@ -49385,7 +49364,7 @@
             ]
           },
           {
-            "index": "181",
+            "index": "179",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 55990,
             "original_price": null,
@@ -49409,7 +49388,7 @@
             ]
           },
           {
-            "index": "182",
+            "index": "180",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": null,
             "original_price": null,
@@ -49422,7 +49401,7 @@
             "details": null
           },
           {
-            "index": "183",
+            "index": "181",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53990,
             "original_price": null,
@@ -49448,7 +49427,7 @@
             ]
           },
           {
-            "index": "184",
+            "index": "182",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 54990,
             "original_price": null,
@@ -49473,7 +49452,7 @@
             ]
           },
           {
-            "index": "185",
+            "index": "183",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 55990,
             "original_price": null,
@@ -49498,7 +49477,7 @@
             ]
           },
           {
-            "index": "186",
+            "index": "184",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 52888,
             "original_price": null,
@@ -49523,7 +49502,7 @@
             ]
           },
           {
-            "index": "187",
+            "index": "185",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53888,
             "original_price": null,
@@ -49547,7 +49526,7 @@
             ]
           },
           {
-            "index": "188",
+            "index": "186",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 53888,
             "original_price": null,
@@ -49572,7 +49551,7 @@
             ]
           },
           {
-            "index": "189",
+            "index": "187",
             "group": "❤ [Game Bundle]10/13購買 NV RTX5070以上顯卡.官網登錄送《控制: 共振》標準版遊戲",
             "price": 54888,
             "original_price": null,
@@ -49602,7 +49581,7 @@
         "name": "NVIDIA 專業工作站繪圖卡",
         "products": [
           {
-            "index": "201",
+            "index": "199",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 9100,
             "original_price": null,
@@ -49626,7 +49605,7 @@
             ]
           },
           {
-            "index": "202",
+            "index": "200",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20600,
             "original_price": null,
@@ -49650,7 +49629,7 @@
             ]
           },
           {
-            "index": "203",
+            "index": "201",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 289900,
             "original_price": null,
@@ -49674,7 +49653,7 @@
             ]
           },
           {
-            "index": "204",
+            "index": "202",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 66300,
             "original_price": null,
@@ -49698,7 +49677,7 @@
             ]
           },
           {
-            "index": "205",
+            "index": "203",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 124000,
             "original_price": null,
@@ -49722,7 +49701,7 @@
             ]
           },
           {
-            "index": "206",
+            "index": "204",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 124000,
             "original_price": null,
@@ -49746,7 +49725,7 @@
             ]
           },
           {
-            "index": "207",
+            "index": "205",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 189000,
             "original_price": null,
@@ -49770,7 +49749,7 @@
             ]
           },
           {
-            "index": "208",
+            "index": "206",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 325000,
             "original_price": null,
@@ -49794,7 +49773,7 @@
             ]
           },
           {
-            "index": "209",
+            "index": "207",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 435000,
             "original_price": null,
@@ -49818,7 +49797,7 @@
             ]
           },
           {
-            "index": "210",
+            "index": "208",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 575000,
             "original_price": null,
@@ -49842,7 +49821,7 @@
             ]
           },
           {
-            "index": "211",
+            "index": "209",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 190,
             "original_price": null,
@@ -49862,7 +49841,7 @@
         "name": "AMD Radeon RX7650GRE-8G",
         "products": [
           {
-            "index": "212",
+            "index": "210",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 9990,
             "original_price": null,
@@ -49886,7 +49865,7 @@
             ]
           },
           {
-            "index": "213",
+            "index": "211",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 10390,
             "original_price": null,
@@ -49910,7 +49889,7 @@
             ]
           },
           {
-            "index": "214",
+            "index": "212",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 11990,
             "original_price": null,
@@ -49940,7 +49919,7 @@
         "name": "AMD Radeon RX9060XT-8G",
         "products": [
           {
-            "index": "215",
+            "index": "213",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 14890,
             "original_price": null,
@@ -49965,7 +49944,7 @@
             ]
           },
           {
-            "index": "216",
+            "index": "214",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 13990,
             "original_price": null,
@@ -49988,7 +49967,7 @@
             ]
           },
           {
-            "index": "217",
+            "index": "215",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 15290,
             "original_price": null,
@@ -50018,7 +49997,7 @@
         "name": "AMD Radeon RX9060XT-16G",
         "products": [
           {
-            "index": "218",
+            "index": "216",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21000,
             "original_price": null,
@@ -50042,7 +50021,7 @@
             ]
           },
           {
-            "index": "220",
+            "index": "218",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20900,
             "original_price": null,
@@ -50067,7 +50046,7 @@
             ]
           },
           {
-            "index": "221",
+            "index": "219",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20890,
             "original_price": null,
@@ -50092,7 +50071,7 @@
             ]
           },
           {
-            "index": "222",
+            "index": "220",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20990,
             "original_price": null,
@@ -50117,7 +50096,7 @@
             ]
           },
           {
-            "index": "223",
+            "index": "221",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21890,
             "original_price": null,
@@ -50142,7 +50121,7 @@
             ]
           },
           {
-            "index": "224",
+            "index": "222",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 19490,
             "original_price": null,
@@ -50167,7 +50146,7 @@
             ]
           },
           {
-            "index": "225",
+            "index": "223",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 19990,
             "original_price": null,
@@ -50190,7 +50169,7 @@
             ]
           },
           {
-            "index": "226",
+            "index": "224",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20490,
             "original_price": null,
@@ -50215,7 +50194,7 @@
             ]
           },
           {
-            "index": "227",
+            "index": "225",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20990,
             "original_price": null,
@@ -50239,7 +50218,7 @@
             ]
           },
           {
-            "index": "228",
+            "index": "226",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21490,
             "original_price": null,
@@ -50263,7 +50242,7 @@
             ]
           },
           {
-            "index": "229",
+            "index": "227",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 20990,
             "original_price": null,
@@ -50294,7 +50273,7 @@
         "name": "AMD Radeon RX9070GRE-12G",
         "products": [
           {
-            "index": "230",
+            "index": "228",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 22000,
             "original_price": null,
@@ -50318,7 +50297,7 @@
             ]
           },
           {
-            "index": "231",
+            "index": "229",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21990,
             "original_price": null,
@@ -50342,7 +50321,7 @@
             ]
           },
           {
-            "index": "232",
+            "index": "230",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 22000,
             "original_price": null,
@@ -50366,7 +50345,7 @@
             ]
           },
           {
-            "index": "233",
+            "index": "231",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21490,
             "original_price": null,
@@ -50391,7 +50370,7 @@
             ]
           },
           {
-            "index": "234",
+            "index": "232",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21490,
             "original_price": null,
@@ -50415,7 +50394,7 @@
             ]
           },
           {
-            "index": "235",
+            "index": "233",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21990,
             "original_price": null,
@@ -50439,7 +50418,7 @@
             ]
           },
           {
-            "index": "236",
+            "index": "234",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 21990,
             "original_price": null,
@@ -50463,7 +50442,7 @@
             ]
           },
           {
-            "index": "237",
+            "index": "235",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 22090,
             "original_price": null,
@@ -50493,7 +50472,7 @@
         "name": "AMD Radeon RX9070-16G",
         "products": [
           {
-            "index": "238",
+            "index": "236",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 24900,
             "original_price": null,
@@ -50517,7 +50496,7 @@
             ]
           },
           {
-            "index": "239",
+            "index": "237",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 25990,
             "original_price": null,
@@ -50542,7 +50521,7 @@
             ]
           },
           {
-            "index": "240",
+            "index": "238",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 24590,
             "original_price": null,
@@ -50572,7 +50551,7 @@
         "name": "AMD Radeon RX9070XT-16G",
         "products": [
           {
-            "index": "241",
+            "index": "239",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 31390,
             "original_price": null,
@@ -50597,7 +50576,7 @@
             ]
           },
           {
-            "index": "242",
+            "index": "240",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 32890,
             "original_price": null,
@@ -50622,7 +50601,7 @@
             ]
           },
           {
-            "index": "243",
+            "index": "241",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 31290,
             "original_price": null,
@@ -50647,7 +50626,7 @@
             ]
           },
           {
-            "index": "244",
+            "index": "242",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 29990,
             "original_price": null,
@@ -50671,7 +50650,7 @@
             ]
           },
           {
-            "index": "245",
+            "index": "243",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 31490,
             "original_price": null,
@@ -50695,7 +50674,7 @@
             ]
           },
           {
-            "index": "246",
+            "index": "244",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 32990,
             "original_price": null,
@@ -50720,7 +50699,7 @@
             ]
           },
           {
-            "index": "247",
+            "index": "245",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 32990,
             "original_price": null,
@@ -50744,7 +50723,7 @@
             ]
           },
           {
-            "index": "248",
+            "index": "246",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 33990,
             "original_price": null,
@@ -50768,7 +50747,7 @@
             ]
           },
           {
-            "index": "249",
+            "index": "247",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 34490,
             "original_price": null,
@@ -50792,7 +50771,7 @@
             ]
           },
           {
-            "index": "250",
+            "index": "248",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 30990,
             "original_price": null,
@@ -50816,7 +50795,7 @@
             ]
           },
           {
-            "index": "251",
+            "index": "249",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 31490,
             "original_price": null,
@@ -50841,7 +50820,7 @@
             ]
           },
           {
-            "index": "252",
+            "index": "250",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 31490,
             "original_price": null,
@@ -50866,7 +50845,7 @@
             ]
           },
           {
-            "index": "253",
+            "index": "251",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 32990,
             "original_price": null,
@@ -50896,7 +50875,7 @@
         "name": "AMD 專業級/工作站級 顯卡",
         "products": [
           {
-            "index": "254",
+            "index": "252",
             "group": "❤ 購買NVIDIA專業工作站繪圖卡.認明麗臺代理與享有完善的企業級售後保固",
             "price": 59990,
             "original_price": null,
