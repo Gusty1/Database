@@ -50839,7 +50839,7 @@
   {
     "category_id": "13",
     "category_name": "螢幕|投影機|壁掛",
-    "summary": "共有商品 767 樣，熱賣 29，圖片 753，討論 744，價格異動 10，限時下殺▼10",
+    "summary": "共有商品 767 樣，熱賣 29，圖片 753，討論 744，價格異動 14，限時下殺▼14",
     "subcategories": [
       {
         "name": "【主機搭購螢幕促銷專區】",
@@ -54479,14 +54479,16 @@
             "index": "178",
             "group": "❤ 螢幕輸出介面 H：HDMI介面 / C：USB-C介面 / P：DisplayPort介面 / A：D-SUB介面",
             "price": 29900,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 29900,
+            "discount_amount": 1400,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛BenQ ZOWIE XQ2566X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態精準技術",
-            "full_text": "｛BenQ ZOWIE XQ2566X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態精準技術, $29900 ◆ ★",
+            "raw_text": "｛BenQ ZOWIE XQ2566X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態精準技術▼下殺到 10/25 23:59",
+            "full_text": "｛BenQ ZOWIE XQ2566X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態精準技術▼下殺到 10/25 23:59, $29900↘$28500 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/13/benqxq2566x.jpg",
             "product_url": "https://zowie.benq.com/zh-tw/monitor/xq2566x.html",
             "details": [
@@ -58428,13 +58430,15 @@
             "index": "350",
             "group": "❤ 螢幕輸出介面 H：HDMI介面 / C：USB-C介面 / P：DisplayPort介面 / A：D-SUB介面",
             "price": 34900,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 34900,
+            "discount_amount": 2000,
             "markers": [
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛BenQ ZOWIE XQ2766X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態清晰技術",
-            "full_text": "｛BenQ ZOWIE XQ2766X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態清晰技術, $34900 ★",
+            "raw_text": "｛BenQ ZOWIE XQ2766X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態清晰技術▼下殺到 10/25 23:59",
+            "full_text": "｛BenQ ZOWIE XQ2766X｝〈3H1P/TN/360Hz/HDMI 2.1〉DyAc 3動態清晰技術▼下殺到 10/25 23:59, $34900↘$32900 ★",
             "img_url": "https://www.coolpc.com.tw/eval/13/benqxq2766x.jpg",
             "product_url": null,
             "details": [
@@ -59285,15 +59289,16 @@
             "index": "387",
             "group": "❤ 螢幕輸出介面 H：HDMI介面 / C：USB-C介面 / P：DisplayPort介面 / A：D-SUB介面",
             "price": 10490,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 10490,
+            "discount_amount": 1602,
             "markers": [
               "discussion",
               "image",
-              "cool_coin_discount"
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛技嘉 GO27Q24｝〈2H1P1C/OLED/240Hz/HDR10〉可升降旋轉",
-            "full_text": "｛技嘉 GO27Q24｝〈2H1P1C/OLED/240Hz/HDR10〉可升降旋轉, $10490 ◆ ★ ↓酷幣1602↓",
+            "raw_text": "｛技嘉 GO27Q24｝〈2H1P1C/OLED/240Hz/HDR10〉可升降旋轉▼下殺到 10/25 23:59",
+            "full_text": "｛技嘉 GO27Q24｝〈2H1P1C/OLED/240Hz/HDR10〉可升降旋轉▼下殺到 10/25 23:59, $10490↘$8888 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/13/gigago27q24.jpg",
             "product_url": "https://www.gigabyte.com/tw/Monitor/GO27Q24",
             "details": [
@@ -64140,14 +64145,16 @@
             "index": "617",
             "group": "❤ 螢幕輸出介面 H：HDMI介面 / C：USB-C介面 / P：DisplayPort介面 / A：D-SUB介面",
             "price": 27900,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 27900,
+            "discount_amount": 1500,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛技嘉 MO32U24｝〈2H1P1C/OLED/240Hz/含喇叭/HDR500/HDMI 2.1〉可升降旋轉",
-            "full_text": "｛技嘉 MO32U24｝〈2H1P1C/OLED/240Hz/含喇叭/HDR500/HDMI 2.1〉可升降旋轉, $27900 ◆ ★",
+            "raw_text": "｛技嘉 MO32U24｝〈2H1P1C/OLED/240Hz/含喇叭/HDR500/HDMI 2.1〉可升降旋轉▼下殺到 10/25 23:59",
+            "full_text": "｛技嘉 MO32U24｝〈2H1P1C/OLED/240Hz/含喇叭/HDR500/HDMI 2.1〉可升降旋轉▼下殺到 10/25 23:59, $27900↘$26400 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/13/gigamo32u24.jpg",
             "product_url": "https://www.gigabyte.com/tw/Monitor/MO32U24",
             "details": [
@@ -118406,16 +118413,14 @@
             "index": "148",
             "group": null,
             "price": 4399,
-            "original_price": 4399,
-            "discount_amount": 200,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
-              "image",
-              "price_change",
-              "time_limited"
+              "image"
             ],
-            "raw_text": "｛TP-LINK Archer BE400｝BE6500/Wi-Fi 7/雙頻/6*天線/3*1Gb/2.5Gb▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Archer BE400｝BE6500/Wi-Fi 7/雙頻/6*天線/3*1Gb/2.5Gb▼下殺到 10/22 23:59, $4399↘$4199 ◆ ★",
+            "raw_text": "｛TP-LINK Archer BE400｝BE6500/Wi-Fi 7/雙頻/6*天線/3*1Gb/2.5Gb",
+            "full_text": "｛TP-LINK Archer BE400｝BE6500/Wi-Fi 7/雙頻/6*天線/3*1Gb/2.5Gb, $4399 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/19/tplinkbe400.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/wifi-router/archer-be400/",
             "details": []
@@ -118783,14 +118788,16 @@
             "index": "172",
             "group": null,
             "price": 27990,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 27990,
+            "discount_amount": 2991,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛華碩 ROG Rapture GT-BE19000AI｝Wi-Fi 7/三頻/8*天線/4*2.5Gb/雙10Gb",
-            "full_text": "｛華碩 ROG Rapture GT-BE19000AI｝Wi-Fi 7/三頻/8*天線/4*2.5Gb/雙10Gb, $27990 ◆ ★",
+            "raw_text": "｛華碩 ROG Rapture GT-BE19000AI｝Wi-Fi 7/三頻/8*天線/4*2.5Gb/雙10Gb▼下殺到 10/27 23:59",
+            "full_text": "｛華碩 ROG Rapture GT-BE19000AI｝Wi-Fi 7/三頻/8*天線/4*2.5Gb/雙10Gb▼下殺到 10/27 23:59, $27990↘$24999 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/19/asusroggt19000ai.jpg",
             "product_url": "https://rog.asus.com/networking/rog-rapture-gt-be19000ai/",
             "details": []
@@ -119014,16 +119021,14 @@
             "index": "186",
             "group": null,
             "price": 6999,
-            "original_price": 6999,
-            "discount_amount": 200,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
-              "image",
-              "price_change",
-              "time_limited"
+              "image"
             ],
-            "raw_text": "｛TP-LINK Deco BE22 三入組｝BE3600/雙頻/Mesh WiFi 7隱藏四天線/1Gb*2▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Deco BE22 三入組｝BE3600/雙頻/Mesh WiFi 7隱藏四天線/1Gb*2▼下殺到 10/22 23:59, $6999↘$6799 ◆ ★",
+            "raw_text": "｛TP-LINK Deco BE22 三入組｝BE3600/雙頻/Mesh WiFi 7隱藏四天線/1Gb*2",
+            "full_text": "｛TP-LINK Deco BE22 三入組｝BE3600/雙頻/Mesh WiFi 7隱藏四天線/1Gb*2, $6999 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/19/tplinkdecobe22.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/deco/deco-be22/",
             "details": []
@@ -119032,15 +119037,16 @@
             "index": "187",
             "group": null,
             "price": 5699,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 5699,
+            "discount_amount": 200,
             "markers": [
               "discussion",
               "image",
-              "cool_coin_discount"
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛TP-LINK Deco BE25 兩入組｝BE5000/雙頻/Mesh WiFi 7/隱藏四天線/2.5Gb*2",
-            "full_text": "｛TP-LINK Deco BE25 兩入組｝BE5000/雙頻/Mesh WiFi 7/隱藏四天線/2.5Gb*2, $5699 ◆ ★ ↓酷幣200↓",
+            "raw_text": "｛TP-LINK Deco BE25 兩入組｝BE5000/雙頻/Mesh WiFi 7/隱藏四天線/2.5Gb*2▼下殺到 10/31 23:59",
+            "full_text": "｛TP-LINK Deco BE25 兩入組｝BE5000/雙頻/Mesh WiFi 7/隱藏四天線/2.5Gb*2▼下殺到 10/31 23:59, $5699↘$5499 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/19/tplinkbe25x2.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/deco/deco-be25/",
             "details": []
@@ -120236,7 +120242,7 @@
   {
     "category_id": "20",
     "category_name": "網路NAS|網路IPCAM",
-    "summary": "共有商品 106 樣，熱賣 4，圖片 99，討論 90，價格異動 6，限時下殺▼4",
+    "summary": "共有商品 106 樣，熱賣 4，圖片 99，討論 90，價格異動 4，限時下殺▼2",
     "subcategories": [
       {
         "name": "室內 網路攝影機 (IP Camera) 都有支援雙向語音",
@@ -120359,16 +120365,14 @@
             "index": "8",
             "group": null,
             "price": 1399,
-            "original_price": 1399,
-            "discount_amount": 100,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
-              "image",
-              "price_change",
-              "time_limited"
+              "image"
             ],
-            "raw_text": "｛TP-LINK Tapo C225｝Wi-Fi 攝影機 / 2K QHD / 四百萬畫素 星光全彩▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Tapo C225｝Wi-Fi 攝影機 / 2K QHD / 四百萬畫素 星光全彩▼下殺到 10/22 23:59, $1399↘$1299 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C225｝Wi-Fi 攝影機 / 2K QHD / 四百萬畫素 星光全彩",
+            "full_text": "｛TP-LINK Tapo C225｝Wi-Fi 攝影機 / 2K QHD / 四百萬畫素 星光全彩, $1399 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinktapoc225.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c225/",
             "details": []
@@ -120377,14 +120381,16 @@
             "index": "9",
             "group": null,
             "price": 1499,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 1499,
+            "discount_amount": 200,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛TP-LINK Tapo C250｝Wi-Fi 攝影機 / 智慧AI偵測與通知 / 4K 8MP / AI自動變焦追蹤",
-            "full_text": "｛TP-LINK Tapo C250｝Wi-Fi 攝影機 / 智慧AI偵測與通知 / 4K 8MP / AI自動變焦追蹤, $1499 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C250｝Wi-Fi 攝影機 / 智慧AI偵測與通知 / 4K 8MP / AI自動變焦追蹤▼下殺到 10/31 23:59",
+            "full_text": "｛TP-LINK Tapo C250｝Wi-Fi 攝影機 / 智慧AI偵測與通知 / 4K 8MP / AI自動變焦追蹤▼下殺到 10/31 23:59, $1499↘$1299 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinkc250.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c250/",
             "details": []
@@ -120493,16 +120499,14 @@
             "index": "16",
             "group": null,
             "price": 1499,
-            "original_price": 1499,
-            "discount_amount": 100,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
-              "image",
-              "price_change",
-              "time_limited"
+              "image"
             ],
-            "raw_text": "｛TP-LINK Tapo C320WS｝Wi-Fi 戶外攝影機 / 防水防塵 / 2K QHD / 全彩夜視▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Tapo C320WS｝Wi-Fi 戶外攝影機 / 防水防塵 / 2K QHD / 全彩夜視▼下殺到 10/22 23:59, $1499↘$1399 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C320WS｝Wi-Fi 戶外攝影機 / 防水防塵 / 2K QHD / 全彩夜視",
+            "full_text": "｛TP-LINK Tapo C320WS｝Wi-Fi 戶外攝影機 / 防水防塵 / 2K QHD / 全彩夜視, $1499 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinktapoc320ws.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c320ws/",
             "details": []
@@ -120821,14 +120825,16 @@
             "index": "37",
             "group": null,
             "price": 1499,
-            "original_price": null,
-            "discount_amount": null,
+            "original_price": 1499,
+            "discount_amount": 100,
             "markers": [
               "discussion",
-              "image"
+              "image",
+              "price_change",
+              "time_limited"
             ],
-            "raw_text": "｛TP-LINK Tapo C236｝ Wi-Fi 攝影機 / 2K / 五百萬畫素 /智慧AI偵測 / 彩色夜視 / 旋轉功能",
-            "full_text": "｛TP-LINK Tapo C236｝ Wi-Fi 攝影機 / 2K / 五百萬畫素 /智慧AI偵測 / 彩色夜視 / 旋轉功能, $1499 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C236｝ Wi-Fi 攝影機 / 2K / 五百萬畫素 /智慧AI偵測 / 彩色夜視 / 旋轉功能▼下殺到 10/31 23:59",
+            "full_text": "｛TP-LINK Tapo C236｝ Wi-Fi 攝影機 / 2K / 五百萬畫素 /智慧AI偵測 / 彩色夜視 / 旋轉功能▼下殺到 10/31 23:59, $1499↘$1399 ◆ ★",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinkc236.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c236/",
             "details": []
@@ -120886,16 +120892,15 @@
             "index": "42",
             "group": "❤ TP-LINK Tapo C410 Tapo 411 真無線 免牽線 充滿可180天續航",
             "price": 1799,
-            "original_price": 1799,
-            "discount_amount": 100,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
               "image",
-              "price_change",
-              "time_limited"
+              "cool_coin_discount"
             ],
-            "raw_text": "｛TP-LINK Tapo C410｝ Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Tapo C410｝ Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池▼下殺到 10/22 23:59, $1799↘$1699 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C410｝ Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池",
+            "full_text": "｛TP-LINK Tapo C410｝ Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池, $1799 ◆ ★ ↓酷幣199↓",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinkc410.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c410/",
             "details": []
@@ -120920,16 +120925,15 @@
             "index": "44",
             "group": "❤ TP-LINK Tapo C410 Tapo 411 真無線 免牽線 充滿可180天續航",
             "price": 1799,
-            "original_price": 1799,
-            "discount_amount": 100,
+            "original_price": null,
+            "discount_amount": null,
             "markers": [
               "discussion",
               "image",
-              "price_change",
-              "time_limited"
+              "cool_coin_discount"
             ],
-            "raw_text": "｛TP-LINK Tapo C411 ｝Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池▼下殺到 10/22 23:59",
-            "full_text": "｛TP-LINK Tapo C411 ｝Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池▼下殺到 10/22 23:59, $1799↘$1699 ◆ ★",
+            "raw_text": "｛TP-LINK Tapo C411 ｝Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池",
+            "full_text": "｛TP-LINK Tapo C411 ｝Wi-Fi 攝影機 / IP65 防水防塵 / 2K 3MP /全彩夜視/內建電池, $1799 ◆ ★ ↓酷幣199↓",
             "img_url": "https://www.coolpc.com.tw/eval/20/tplinkc411.jpg",
             "product_url": "https://www.tp-link.com/tw/home-networking/cloud-camera/tapo-c411/",
             "details": []
